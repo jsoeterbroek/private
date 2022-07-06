@@ -10,7 +10,7 @@ export FILETAGS="holiday"
 WGET=wget
 ICS2ORG=./ical2org.awk
 ICSFILE=dutch_holidays.ical
-ORGFILE="${HOME}/Dropbox/org/g_holidays.org"
+ORGFILE="${HOME}/Development/private/org-mode/org/g_holidays.org"
 URL="https://calendar.google.com/calendar/ical/en.dutch%23holiday%40group.v.calendar.google.com/public/basic.ics"
 
 echo "INFO: running ical2org_dutch_holidays..."

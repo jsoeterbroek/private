@@ -7,15 +7,86 @@
 #+STARTUP:     overview
 #+FILETAGS:    prive
 
-* Arbeidsvoorwaardengesprek
+* Polyborrel Leiden
   :PROPERTIES:
-  :ID:        7jaspvutehbi1nacick9ho1bgu@google.com
-  :LOCATION:  Dictu, Hanzelaan 310, Zwolle
+  :ID:        vj22agbj183ga344lgdjcq8kqs@google.com
   :STATUS:    CONFIRMED
   :ATTENDING: ATTENDING
   :ATTENDEES: 
   :END:
-<2022-06-29 Wed 14:00-16:00>
+<2022-07-07 Thu 17:00-18:00>
+
+* Anita
+  :PROPERTIES:
+  :ID:        29liu53m1b8q0119frb534bfu0@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-05 Tue 17:00-18:00>
+
+* Thomas verjaardag diner
+  :PROPERTIES:
+  :ID:        rpvid4akqe02nmlin9getpuj8s@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-01 Fri 15:00-18:00>
+
+* Huisarts aanstip
+  :PROPERTIES:
+  :ID:        dkme9k72ci55qiv1fl93da71os@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-07 Thu 06:00-07:00>
+
+* Change
+  :PROPERTIES:
+  :ID:        9n3vofe1lbliqhlq783j2jtqoc@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-06-25 Sat 09:00-10:00>
+
+* Huispassen Zwolle
+  :PROPERTIES:
+  :ID:        k9n7l01aei2uofref05kdjceo8@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-13 Wed>--<2022-07-25 Mon>
+
+* Lustrum feest gw Zwolle
+  :PROPERTIES:
+  :ID:        0ramjdjgg56gimj42vpohpikp8@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-02 Sat 08:00-20:00>
+
+* Huisarts
+  :PROPERTIES:
+  :ID:        urqr836s79vcgi60h9vlenun44@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-06-23 Thu 06:00-07:00>
+
+* Bloedruk
+  :PROPERTIES:
+  :ID:        48har6h8p4h8d2lcgtubecjg3k@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-08-02 Tue 08:10-09:10>
 
 * Anita
   :PROPERTIES:
@@ -24,7 +95,7 @@
   :ATTENDING: ATTENDING
   :ATTENDEES: 
   :END:
-<2022-06-18 Sat 14:00-21:00>
+<2022-06-18 Sat 12:00-19:00>
 
 * Tuindag gw Zwolle
   :PROPERTIES:
@@ -60,16 +131,7 @@
   :ATTENDING: ATTENDING
   :ATTENDEES: 
   :END:
-<2022-07-10 Sun 10:30-17:00>
-
-* Lustrum feest gw Zwolle
-  :PROPERTIES:
-  :ID:        0ramjdjgg56gimj42vpohpikp8@google.com
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-07-02 Sat 18:00-19:00>
+<2022-07-10 Sun 08:30-15:00>
 
 * Jingles q&a
   :PROPERTIES:
@@ -78,7 +140,7 @@
   :ATTENDING: ATTENDING
   :ATTENDEES: 
   :END:
-<2022-06-11 Sat 11:00-12:00>
+<2022-06-11 Sat 09:00-10:00>
 
 @everyone Right this time for sure, join us Saturday 11th of June at 11:00 AM GMT+1 (provided Daylight savings if there is one doesn't correct me on that) as we host the reboot of our monthly LIVE Q&A'S with the one and only Salt Mines Overlord <@270601761570422785> himself! As usual our questions channel will be opened roughly 10-15 minutes before the start of the Q&A as to make responses to user asked questions feel more live.
 
@@ -90,49 +152,7 @@ Q&A's typically last between 45 minutes and anywhere up to 2 hours so be sure to
   :ATTENDING: ATTENDING
   :ATTENDEES: 
   :END:
-<2022-06-28 Tue 19:30-20:30>
-
-* Bezichtiging wolweverstraat
-  :PROPERTIES:
-  :ID:        1dhqihedi9aqn64avkt9c5v2lg@google.com
-  :LOCATION:  Wolweverstraat 20A, 8011 NW Zwolle, Netherlands
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-06-03 Fri 16:45-17:00>
-
-Hierbij bevestigen wij de gemaakte afspraak voor de bezichtiging van het appartement aan de&nbsp;Wolweverstraat 20 a te Zwolle.<br><br>De bezichtiging zal worden uitgevoerd door mijn collega Ingrid Kooiker:<ul><li>op vrijdag 3 juni 2022;</li><li>om 16:45 uur;</li><li>wij hanteren voor dit woonhuis&nbsp;<strong>15 minuten</strong>&nbsp;per bezichtiging.&nbsp;</li></ul>Met vriendelijke groet,<br><br>Alain Michel<br>&nbsp;<table><tbody><tr><td>Edwin van Vilsteren Makelaars</td></tr></tbody></table>
-* Bezichtiging Dalfsen
-  :PROPERTIES:
-  :ID:        6ta9o2qvmmjc4bhra72k22q98g@google.com
-  :LOCATION:  Bloemendalstraat 16, 7721 AM Dalfsen, Netherlands
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-06-03 Fri 14:55-15:55>
-
-r aanstaande vrijdag om 14:55 aan de.
-* Polylunch
-  :PROPERTIES:
-  :ID:        n1t4hic4h5un1hq6tgdv9eq6ks@google.com
-  :LOCATION:  Tidorestraat 123, 1095 KS Amsterdam, Netherlands
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-05-28 Sat 12:00-15:00>
-
-zaterdag 28 mei bij de PolyLunch bent! We beginnen om 12.00 uur, inloop is vanaf 11.45 uur.
-* Sarah
-  :PROPERTIES:
-  :ID:        6m6sdtdomf76vf2htsuan1m5u8@google.com
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-05-27 Fri 17:00-18:00>
+<2022-06-28 Tue 17:30-18:30>
 
 * Anita BE
   :PROPERTIES:
@@ -150,39 +170,8 @@ zaterdag 28 mei bij de PolyLunch bent! We beginnen om 12.00 uur, inloop is vanaf
   :ATTENDING: ATTENDING
   :ATTENDEES: 
   :END:
-<2022-06-21 Tue 09:00-11:00>
+<2022-06-21 Tue 07:00-09:00>
 
-* Vrijheid Blijheid "House" Party
-  :PROPERTIES:
-  :ID:        82F0B9B8-2FDA-4357-AC68-D2D68A20F310
-  :LOCATION:  Koggenland
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-06-24 Fri 19:00-23:00>
-
-
-Een Tantrische Avond in huiselijke sfeer, waarin je helemaal kunt zijn wie je bent, je verlangens kunt uiten, je je vrij mag voelen om te doen wat je wil doen, in respect, vertrouwen, liefdevolheid naar jezelf en naar anderen, in consent. Voor deze avond is ervaring in de Tantra een must, waarbij je goed weet hoe je je eigen space en die voor anderen kunt holden. De intentie is om zoveel mogelijk intieme verbinding te ervaren met iedereen die deelneemt. We starten de avond met een verbindende opening, met daarna free flow.
-
-De avond is voor (gelegenheids)stellen, single vrouwen en maximaal 3 single mannen.
-
-€15 per persoon
-Drinken is aanwezig (alcoholvrij)
-vooraf aanmelden via info@intimatebodywork.nl
-3G regels van toepassing: Geknuffel, Genieten, Gezond verstand
-
-* Dorus
-  :PROPERTIES:
-  :ID:        qrjq4m3ut423il2a27nj62kkd4@google.com
-  :LOCATION:  Reinaldahuis - Woonzorg Netherlands, Leonard Springerlaan 1, 203 3 TA Haarlem, Netherlands
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-05-26 Thu 14:00-15:00>
-
-Bus 2, 80 en 680 stoppen op de Prins Bernhardlaan (halte Jac. v. Looystraat). Vanaf de halte is het ongeveer 2 minuten lopen naar het Reinaldahuis. Er gaan heel regelmatig bussen van- en naar Haarlem Centraal en Spaarnwoude.
 * Ellen po
   :PROPERTIES:
   :ID:        2perjo39t5gr6k62cc828s7qbk@google.com
@@ -190,14 +179,5 @@ Bus 2, 80 en 680 stoppen op de Prins Bernhardlaan (halte Jac. v. Looystraat). Va
   :ATTENDING: ATTENDING
   :ATTENDEES: 
   :END:
-<2022-07-26 Tue 13:00-14:00>
-
-* Bloedruk
-  :PROPERTIES:
-  :ID:        48har6h8p4h8d2lcgtubecjg3k@google.com
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-06-21 Tue 13:40-14:40>
+<2022-07-26 Tue 11:00-12:00>
 

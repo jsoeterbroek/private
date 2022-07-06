@@ -143,26 +143,6 @@ Public holiday
 <2023-05-18 Thu>
 
 Public holiday
-* Ascension Day
-  :PROPERTIES:
-  :ID:        20220526_6971d153b880f3g8s3ipo548t0@google.com
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-05-26 Thu>
-
-Public holiday
-* Whit Sunday
-  :PROPERTIES:
-  :ID:        20220605_lafklnp23nullsbdmiitgmatd0@google.com
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-06-05 Sun>
-
-Public holiday
 * Whit Monday
   :PROPERTIES:
   :ID:        20230529_30mg5486cp7lef8h2cii8uf780@google.com
@@ -225,16 +205,6 @@ To hide observances, go to Google Calendar Settings > Holidays in Netherlands
   :ATTENDEES: 
   :END:
 <2023-12-25 Mon>
-
-Public holiday
-* Whit Monday
-  :PROPERTIES:
-  :ID:        20220606_6v3a69dl6lkepn5gonkm1ma5f0@google.com
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-06-06 Mon>
 
 Public holiday
 * St Nicholas' Eve/Sinterklaas
