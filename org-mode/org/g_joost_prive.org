@@ -1,0 +1,183 @@
+#+TITLE:       GCal Prive
+#+AUTHOR:      Joost Soeterbroek
+#+EMAIL:       joost.soeterbroek@gmail.com
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    GCal Prive
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+#+FILETAGS:    prive
+
+* Polyborrel Leiden
+  :PROPERTIES:
+  :ID:        vj22agbj183ga344lgdjcq8kqs@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-07 Thu 19:00-20:00>
+
+* Anita
+  :PROPERTIES:
+  :ID:        29liu53m1b8q0119frb534bfu0@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-05 Tue 19:00-20:00>
+
+* Thomas verjaardag diner
+  :PROPERTIES:
+  :ID:        rpvid4akqe02nmlin9getpuj8s@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-01 Fri 17:00-20:00>
+
+* Huisarts aanstip
+  :PROPERTIES:
+  :ID:        dkme9k72ci55qiv1fl93da71os@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-07 Thu 08:00-09:00>
+
+* Change
+  :PROPERTIES:
+  :ID:        9n3vofe1lbliqhlq783j2jtqoc@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-06-25 Sat 11:00-12:00>
+
+* Huispassen Zwolle
+  :PROPERTIES:
+  :ID:        k9n7l01aei2uofref05kdjceo8@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-13 Wed>--<2022-07-25 Mon>
+
+* Lustrum feest gw Zwolle
+  :PROPERTIES:
+  :ID:        0ramjdjgg56gimj42vpohpikp8@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-02 Sat 10:00-22:00>
+
+* Huisarts
+  :PROPERTIES:
+  :ID:        urqr836s79vcgi60h9vlenun44@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-06-23 Thu 08:00-09:00>
+
+* Bloedruk
+  :PROPERTIES:
+  :ID:        48har6h8p4h8d2lcgtubecjg3k@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-08-02 Tue 10:10-11:10>
+
+* Anita
+  :PROPERTIES:
+  :ID:        6s478go21d40glje42pvtgsunu@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-06-18 Sat 14:00-21:00>
+
+* Tuindag gw Zwolle
+  :PROPERTIES:
+  :ID:        0dv5gsbbg28l3dvrngb12sjsnc@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-11-13 Sun>
+
+* Tuindag gw Zwolle
+  :PROPERTIES:
+  :ID:        592jil7ptdj9k0hmf49gf43425@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-10-09 Sun>
+
+* Tuindag gw Zwolle
+  :PROPERTIES:
+  :ID:        52fogd6khtnbvu4r186aae1pfm@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-09-11 Sun>
+
+* Tuindag gw Zwolle
+  :PROPERTIES:
+  :ID:        43p88us2qpfor3sgu8pgmm9iot@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-10 Sun 10:30-17:00>
+
+* Jingles q&a
+  :PROPERTIES:
+  :ID:        vgpipf1gnk6mlbam4hdklclk5g@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-06-11 Sat 11:00-12:00>
+
+@everyone Right this time for sure, join us Saturday 11th of June at 11:00 AM GMT+1 (provided Daylight savings if there is one doesn't correct me on that) as we host the reboot of our monthly LIVE Q&A'S with the one and only Salt Mines Overlord <@270601761570422785> himself! As usual our questions channel will be opened roughly 10-15 minutes before the start of the Q&A as to make responses to user asked questions feel more live.
+
+Q&A's typically last between 45 minutes and anywhere up to 2 hours so be sure to have your burning questions ready to be answered by The Mighty Jingles live on stage.
+* BC vergadering
+  :PROPERTIES:
+  :ID:        8sjlpu0d1bngs3nf1n5ojf2dfk@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-06-28 Tue 19:30-20:30>
+
+* Anita BE
+  :PROPERTIES:
+  :ID:        77vd64k5gt4kvt8mnfjehu9dvg@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-06-11 Sat>--<2022-06-12 Sun>
+
+* Terugkoppeling TMA
+  :PROPERTIES:
+  :ID:        41m9s9qkutsh3fr232b0299nvo@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-06-21 Tue 09:00-11:00>
+
+* Ellen po
+  :PROPERTIES:
+  :ID:        2perjo39t5gr6k62cc828s7qbk@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-26 Tue 13:00-14:00>
+

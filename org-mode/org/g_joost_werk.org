@@ -1,0 +1,63 @@
+#+TITLE:       GCal Werk
+#+AUTHOR:      Joost Soeterbroek
+#+EMAIL:       joost.soeterbroek@gmail.com
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    GCal Werk
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+#+FILETAGS:    werk
+
+* Verlof
+  :PROPERTIES:
+  :ID:        040000008200E00074C5B7101A82E0080000000060AB56F6B233D801000000000000000
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-05-29 Sun>--<2022-06-12 Sun>
+
+* Vergadering gewijzigd: Refinment LINUX Team incl BOO Team
+  :PROPERTIES:
+  :ID:        d8a670bb-ccc4-40fa-839d-8a08fd3136d8
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-06-09 Thu 13:00-14:00>
+
+* Uitnodiging voor vergadering: Refinement LINUX Expertise Team incl BOO
+  :PROPERTIES:
+  :ID:        e214de13-b54b-4cfd-be31-53305213bb27
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-06-16 Thu 13:00-14:00>
+
+* Terugkoppeling TMA
+  :PROPERTIES:
+  :ID:        040000008200E00074C5B7101A82E00800000000408291DC3970D801000000000000000
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-06-21 Tue 09:00-11:00>
+
+* Save the date: DICTU (openings)feest nav versoepelingen en verhuizing DICTU Bruggebouw Oost
+  :PROPERTIES:
+  :ID:        040000008200E00074C5B7101A82E0080000000000FAC9417555D801000000000000000
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-06-09 Thu 15:30-19:00>
+
+* Gele tafel (sessies 2022 op de Woensdag)
+  :PROPERTIES:
+  :ID:        040000008200E00074C5B7101A82E00800000000C03932168FEBD701000000000000000
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-06-15 Wed 11:30-12:00>
+
