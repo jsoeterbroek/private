@@ -1,0 +1,81 @@
+#+TITLE:       GCal Birthdays
+#+AUTHOR:      Joost Soeterbroek
+#+EMAIL:       joost.soeterbroek@gmail.com
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    GCal Birthdays
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+#+FILETAGS:    birthday
+
+* Astrid
+  :PROPERTIES:
+  :ID:        plclhlmon9sjdpi9ajsd99imrg@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2014-04-05 Sat +1y>
+
+* Corry
+  :PROPERTIES:
+  :ID:        4jchseeqjks834qlnf2hm7q66o@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2013-06-05 Wed +1y>
+
+* Irene
+  :PROPERTIES:
+  :ID:        j9a8qp5on5turpo0iu0go8apr0@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-05-05 Thu +1y>
+
+* Carla
+  :PROPERTIES:
+  :ID:        00g2mf66dhfuqmpkl4iup7ic0j@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2021-04-27 Tue +1y>
+
+* Cees
+  :PROPERTIES:
+  :ID:        4pv8atullh9n65gejikno7cvd8@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-05-04 Wed +1y>
+
+* Liesbeth
+  :PROPERTIES:
+  :ID:        6cg1vpj05ee66m3hheg1d5repd@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-05-04 Wed +1y>
+
+* Sarah
+  :PROPERTIES:
+  :ID:        0gpj0vk44t518j2hrqoq0mo6om@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-08-30 Tue +1y>
+
+* Thomas
+  :PROPERTIES:
+  :ID:        0fg9es3vo55sh781j252vo0uj2@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-08 Fri +1y>
+

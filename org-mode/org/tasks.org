@@ -1,0 +1,18 @@
+#+TODO: TODO IN-PROGRESS WAITING DONE
+* Active
+** DONE B&B zoeken in BE
+  CLOSED: [2022-05-31 di 22:05] DEADLINE: <2022-05-30 Mon>
+** TODO Grof vuil                                                :Verhuizing:
+** DONE Assessment doen                                        :Sollicitatie:
+CLOSED: [2022-06-01 Wed 12:22] SCHEDULED: <2022-06-01 Wed 11:00>
+** DONE Opvolgen Kampen                                         :Verhuizing:
+** TODO Regelen slaaptest ziekenhuis
+** DONE Opvolgen Funda Dalfsen                                   :Verhuizing:
+CLOSED: [2022-06-03 Fri 20:27]
+** TODO Afspraak maken huisarts skintags verwijderen
+** TODO Foto’s (laten) maken
+[2022-06-01 Wed 14:48]
+* Backlog
+* DONE Reactie mail Dalfsen
+CLOSED: [2022-06-03 Fri 16:59] DEADLINE: <2022-06-03 Fri 21:00> SCHEDULED: <2022-06-03 Fri 21:00>
+[2022-06-03 Fri 15:31]

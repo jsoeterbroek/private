@@ -1,0 +1,11 @@
+#+DESCRIPTION: Events
+#+CATEGORY:    Events
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+#+FILETAGS:    prive
+* DONE Bezichtiging Dalfsen                                      :Verhuizing:
+CLOSED: [2022-06-03 Fri 15:19] SCHEDULED: <2022-06-03 Fri 14:55>
+Bloemendalstraat 16b, Dalfsen
+* Bezichtiging Wolweverstraat                                    :Verhuizing:
+DONE <2022-06-03 Fri 16:45>
+Wolweverstraat 20a, Zwolle

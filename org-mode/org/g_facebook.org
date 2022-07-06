@@ -1,0 +1,128 @@
+#+TITLE:       GCal Facebook
+#+AUTHOR:      Joost Soeterbroek
+#+EMAIL:       joost.soeterbroek@gmail.com
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    GCal Facebook
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+#+FILETAGS:    facebook
+
+* PolyDiner
+  :PROPERTIES:
+  :ID:        2A782306-65DE-4C8D-BB6B-B889E59A966C
+  :LOCATION:  Tidorestraat, 1095 KS Amsterdam, Nederland
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-06-14 Tue 19:00-23:00>
+
+Dinsdag 14 juni is er weer een PolyDiner!
+
+Voor de mensen die nog niet bekend zijn met het concept. Bij het de PolyLunches en PolyDiners wisselen we aan de eettafel ervaringen uit over polyamorie. Ben je jong of oud? Stel, single, trio of meer? Homo, hetero, lesbisch, bi, queer, pan, trans? Iedereen is welkom! Van elkaars verschillen kunnen we alleen maar leren.
+
+Er is geen georganiseerde discussie. Je praat met wie en over wat je wilt. Je kunt ervaringen uitwisselen, nieuwe mensen ontmoeten, een goed gesprek voeren of gewoon kletsen, alles is mogelijk.
+
+Waar is het?
+In Amsterdam Oost, Tidorestraat 123. Mocht je slecht ter been zijn, de locatie is op de vierde etage en er is helaas geen lift. Het diner begint om 19.00u (inloop vanaf 18.45u).
+
+Wat kost het?
+15 euro per persoon, eten en drinken zijn inbegrepen. Laat het weten als je specifieke eetwensen hebt dan kunnen we daar rekening mee houden.
+Is de 15 euro een belemmering? Neem dan even contact op, dan bedenken we een oplossing!
+
+Corona
+We zijn weer begonnen met bij elkaar komen maar de pandemie is nog niet helemaal voorbij. Om ook anderen te beschermen, denk eraan dat je bij corona-klachten thuisblijft en doe bij voorkeur ook van tevoren een zelftest. Meld je op tijd af, dan blijft wat je betaald hebt voor deze bijeenkomst staan voor de volgende keer dat je erbij bent.
+
+Aanmelden!
+Wil je er 14 juni bij zijn? Er is ruimte voor maximaal 15 personen dus meld je snel aan op info@polyamsterdam.nl. Op dit mailadres kun je ook terecht met vragen.
+* Strandbeleving
+  :PROPERTIES:
+  :ID:        5A66AD45-2C02-4FEB-AE88-8847DDC30166
+  :LOCATION:  Castricum Beach
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-17 Sun 13:00-16:00>
+
+Dit is een leuke strandtent dus als we daar elkaar ontmoeten. Gezellig samen zijn en live bijkletsen.  Iedereen neemt drinken en eten zelf mee.
+* Una Noche Magica
+  :PROPERTIES:
+  :ID:        BFFEF557-842D-4FBE-9D4D-9C62C68FAADC
+  :LOCATION:  Amsterdam, Netherlands
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-06-24 Fri 19:15-23:30>
+
+Una Noche Magica
+Thema: 👑 Kings and Queens 👑
+
+Het programma is klaar!
+Alle Kings and Queens opgelet! 
+Het belooft weer een mooie avond te worden! 
+Iedereen is welkom ongeacht leeftijd en/of ervaring in Tantra. 
+De sfeer staat in het teken van plezier, verbinding, ontmoeten, openheid en LEVEN.
+
+Alles wat wij aanbieden aan oefeningen is om jou/ jullie (nog) meer kennis, ervaring, plezier en groei te geven. Zo raak je meer in vertrouwen met jezelf en met elkaar. Als doel: het brengen van passie, vuur, verbinding en liefde in je leven.
+Je ervaart hoe het is om af en toe een stapje buiten je comfortzone te zetten. Daar begint de fun!
+
+Er is geen groepsdruk. 
+Jij verkent, geniet en speelt in jouw eigen tempo en op jouw eigen 
+manier, zodat het ook echt voor jou Una Noche Magica wordt!
+
+Hoe ziet een avond eruit?
+Nadat we met een kopje thee eerst de praktische zaken hebben gedeeld starten we met de oefeningen om aan te komen en om een veilige omgeving te creëren voor iedereen.
+Daarna starten we de avond met nu als thema Kings and Queens. 
+We houden de inhoud nog even geheim. Het belooft weer een mooie avond te worden! 
+
+Om 23 uur stopt de begeleide avond en kan je samen met de aanwezigen nog even op jouw eigen manier nagenieten.
+Om 24 uur eindigt de avond.
+
+Praktisch
+Vrijdag 24 juni.
+Van 19.30 uur tot 23.00/ 24.00 uur
+Locatie: De Ruimte in Amsterdam
+Kosten: 40 euro p.p of 70 euro per stel bij gelijktijdige aanmelding
+All-in: met thee, fris en versnaperingen voor de hele avond. 
+
+Als je je aanmeldt sturen we alle info. die je nodig hebt.
+Heb je vragen of ben je geïnteresseerd?
+Stuur een mail naar:
+Info@BewustZijnNederland.nl
+
+Tot ziens op 24 juni!
+
+Warme groet,
+Edith en Eric
+* Conscious Kink | BoFlo Night
+  :PROPERTIES:
+  :ID:        129730C7-DA10-4A0D-BE2A-AE8DE37F25D0
+  :LOCATION:  Koggenland
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-08 Fri 19:00-23:00>
+
+BoFlo: B*ndage & Fl*gging. Leef je uit met touwtjes en zw**pjes en alles waarmee je in overgave en/of overmeesteren komt. Het uitgangspunt is bewust zijn, vanuit Tantrische Basis. Je bent ervaren in aandachtig zijn, kent je eigen grenzen, weet wat het geven en ontvangen van consent inhoudt. Deze avond kun je in huiselijke sfeer aan de slag met kinky materialen. 
+
+Voor wie: voor beginnende en meer ervaren BoFlo-ers, zodat er fijn uitgewisseld kan worden. Daarnaast is er ook ruimte voor nieuwsgierigen: je komt dan om te gluren en misschien eens te ontvangen en ontdekken wat dit voor je kan betekenen. We kijken daarbij wel naar de verhouding 3:1. 
+
+aanmelden (zorg dat je in je email je ervaring deelt tav BoFlo): info@intimatebodywork.nl
+
+Tijd: 19.30-23.00 uur
+Locatie: Koggenland
+€15
+3G regels van toepassing: Gezw**p, Gezond verstand, Grenzen (ver)kennend.
+
+* test facebook
+  :PROPERTIES:
+  :ID:        1o3gl7840rpvlk42sq65ebvtq6@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-05-29 Sun 18:00-19:00>
+

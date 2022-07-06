@@ -1,0 +1,4 @@
+#-*- mode: org -*-
+#+STARTUP: showall
+
+* Welcome to Org-Mode

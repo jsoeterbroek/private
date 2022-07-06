@@ -1,0 +1,301 @@
+#+TITLE:       GCal Holidays
+#+AUTHOR:      Joost Soeterbroek
+#+EMAIL:       joost.soeterbroek@gmail.com
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    GCal Holidays
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+#+FILETAGS:    holiday
+
+* Mother's Day
+  :PROPERTIES:
+  :ID:        20230514_9q8js4snr6eknt72fcsdfkr08c@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2023-05-14 Sun>
+
+Observance
+To hide observances, go to Google Calendar Settings > Holidays in Netherlands
+* Father's Day
+  :PROPERTIES:
+  :ID:        20230618_dk26dfkqhfpgof9ijajlg00ots@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2023-06-18 Sun>
+
+Observance
+To hide observances, go to Google Calendar Settings > Holidays in Netherlands
+* Father's Day
+  :PROPERTIES:
+  :ID:        20220619_feommve53p6jl8nkc3n9fjvbi0@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-06-19 Sun>
+
+Observance
+To hide observances, go to Google Calendar Settings > Holidays in Netherlands
+* New Year's Eve
+  :PROPERTIES:
+  :ID:        20221231_36grh7keh91a08iebinefk48k8@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-12-31 Sat>
+
+Observance
+To hide observances, go to Google Calendar Settings > Holidays in Netherlands
+* King's Birthday
+  :PROPERTIES:
+  :ID:        20230427_s0rr9nr49bcaf42q5af2gobpgk@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2023-04-27 Thu>
+
+Public holiday
+* Keti Koti
+  :PROPERTIES:
+  :ID:        20230701_j9lc8efqq2t1kbo8qaiqkdrids@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2023-07-01 Sat>
+
+Observance
+To hide observances, go to Google Calendar Settings > Holidays in Netherlands
+* Easter Monday
+  :PROPERTIES:
+  :ID:        20230410_nk5blouj6ilc8lc2qbirkronlc@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2023-04-10 Mon>
+
+Public holiday
+* Christmas Eve
+  :PROPERTIES:
+  :ID:        20221224_hcs2bv3268pjjcsn68a6mmo54c@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-12-24 Sat>
+
+Observance
+To hide observances, go to Google Calendar Settings > Holidays in Netherlands
+* Whit Sunday
+  :PROPERTIES:
+  :ID:        20230528_k3ec0h5878rq96epvtlv053ick@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2023-05-28 Sun>
+
+Public holiday
+* Second Day of Christmas
+  :PROPERTIES:
+  :ID:        20221226_3dmotseem1dm9sbqk2bof4v6hs@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-12-26 Mon>
+
+Public holiday
+* Good Friday
+  :PROPERTIES:
+  :ID:        20230407_je13ojf83a1ir3sursthpaqbq0@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2023-04-07 Fri>
+
+Public holiday
+* Easter Sunday
+  :PROPERTIES:
+  :ID:        20230409_a25bgaai38n34arqn2eln25g58@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2023-04-09 Sun>
+
+Public holiday
+* Ascension Day
+  :PROPERTIES:
+  :ID:        20230518_m43u81dvgn787tkljmfbsrkkf8@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2023-05-18 Thu>
+
+Public holiday
+* Ascension Day
+  :PROPERTIES:
+  :ID:        20220526_6971d153b880f3g8s3ipo548t0@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-05-26 Thu>
+
+Public holiday
+* Whit Sunday
+  :PROPERTIES:
+  :ID:        20220605_lafklnp23nullsbdmiitgmatd0@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-06-05 Sun>
+
+Public holiday
+* Whit Monday
+  :PROPERTIES:
+  :ID:        20230529_30mg5486cp7lef8h2cii8uf780@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2023-05-29 Mon>
+
+Public holiday
+* Valentine's Day
+  :PROPERTIES:
+  :ID:        20230214_106d60dpej8g858etqa36h50ms@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2023-02-14 Tue>
+
+Observance
+To hide observances, go to Google Calendar Settings > Holidays in Netherlands
+* St Nicholas' Eve/Sinterklaas
+  :PROPERTIES:
+  :ID:        20231205_2ji6kpnlbcrjrnjf1hup3id1sc@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2023-12-05 Tue>
+
+Observance
+To hide observances, go to Google Calendar Settings > Holidays in Netherlands
+* Keti Koti
+  :PROPERTIES:
+  :ID:        20220701_ej1837al9rpksjds2uq8lq66io@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-01 Fri>
+
+Observance
+To hide observances, go to Google Calendar Settings > Holidays in Netherlands
+* Christmas Eve
+  :PROPERTIES:
+  :ID:        20231224_3mujhklfvupinp0ft9anmbtrm4@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2023-12-24 Sun>
+
+Observance
+To hide observances, go to Google Calendar Settings > Holidays in Netherlands
+* Christmas Day
+  :PROPERTIES:
+  :ID:        20231225_9rjknu041j3hemt850fhci1c2o@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2023-12-25 Mon>
+
+Public holiday
+* Whit Monday
+  :PROPERTIES:
+  :ID:        20220606_6v3a69dl6lkepn5gonkm1ma5f0@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-06-06 Mon>
+
+Public holiday
+* St Nicholas' Eve/Sinterklaas
+  :PROPERTIES:
+  :ID:        20221205_idn4rnkcgdbtm29bp69djuqir4@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-12-05 Mon>
+
+Observance
+To hide observances, go to Google Calendar Settings > Holidays in Netherlands
+* Second Day of Christmas
+  :PROPERTIES:
+  :ID:        20231226_keh639llafrca2frpku3uo4vn0@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2023-12-26 Tue>
+
+Public holiday
+* New Year's Eve
+  :PROPERTIES:
+  :ID:        20231231_t85qv3t0og5oj2gtknri1p1dvc@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2023-12-31 Sun>
+
+Observance
+To hide observances, go to Google Calendar Settings > Holidays in Netherlands
+* New Year's Day
+  :PROPERTIES:
+  :ID:        20230101_doq9t09idbdik58mls926dahi0@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2023-01-01 Sun>
+
+Public holiday
+* Liberation Day
+  :PROPERTIES:
+  :ID:        20230505_auf1obprin5oadvlcq7kmbeecc@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2023-05-05 Fri>
+
+Public holiday
+* Christmas Day
+  :PROPERTIES:
+  :ID:        20221225_95eog6qigb8n9kjdasvn521qes@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-12-25 Sun>
+
+Public holiday
