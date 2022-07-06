@@ -36,7 +36,7 @@ function git_branch {
   fi
 }
 
-PS1="\[$COLOR_BLACK\][\u@\h \W]" # basename of pwd
+PS1="\[$COLOR_BLUE\][\u@\h \W]" # basename of pwd
 PS1+="\[\$(git_color)\]"        # colors git status
 PS1+="\$(git_branch)"           # prints current branch
 PS1+="\[$COLOR_BLUE\]\$\[$COLOR_RESET\] "

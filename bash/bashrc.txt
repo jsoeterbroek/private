@@ -10,3 +10,5 @@ fi
 
 # User specific aliases and functions
 . ~/.bashrc.git
+
+export PATH="$HOME/.emacs.d/bin:$PATH"
