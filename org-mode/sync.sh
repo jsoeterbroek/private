@@ -11,7 +11,7 @@ cd - &> /dev/null
 #echo "INFO: ${DATETIME} sync dropbox org files to backup..."
 #cp -R /c/Users/soeterbroekj/Dropbox/org/*.org backup/
 
-echo "INFO: ${DATETIME} sync to gitlab..."
+echo "INFO: ${DATETIME} sync to github..."
 git pull &> /dev/null
 git add *
 git commit -m "sync ${DATETIME}" &> /dev/null 
