@@ -11,6 +11,7 @@ CLOSED: [2022-06-15 Wed 14:16]
 * GET Zachte zolen schoenen                                        :shopping:
 * GOT Scheermessen                                                 :shopping:
 CLOSED: [2022-06-26 Sun 11:33]
-* GET Nicotine pleisters                                           :shopping:
+* DONE Nicotine pleisters                                          :shopping:
+CLOSED: [2022-07-07 Thu 14:40]
 * GOT Vitamine C
 CLOSED: [2022-06-27 Mon 14:15]
