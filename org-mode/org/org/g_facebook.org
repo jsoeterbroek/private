@@ -1,0 +1,60 @@
+#+TITLE:       GCal Facebook
+#+AUTHOR:      Joost Soeterbroek
+#+EMAIL:       joost.soeterbroek@gmail.com
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    GCal Facebook
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+#+FILETAGS:    facebook
+
+* PolyPicknick
+  :PROPERTIES:
+  :ID:        CE64A2CC-DFEF-4419-9CCB-8664C0C1993D
+  :LOCATION:  Flevopark, 1095 Amsterdam, Nederland
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-09-03 Sat 12:00-16:00>
+
+Zaterdag 3 september is er weer een PolyPicknick! De formule van de picknick is Potluck: neem zelf lekkers te eten en te drinken mee om samen een uitgebreid buffet te maken. Iedereen is welkom op de picknick: mensen die poly zijn of niet, (mono-)partners, en mensen die gewoon nieuwsgierig zijn. Er is een speeltuin vlakbij de picknickplek dus neem ook je kinderen mee!
+
+Datum
+De picknick is op zaterdag 3 september van 12.00-16.00 uur in het Flevopark in Amsterdam. Leuk als je even laat weten dat je komt op info@polyamsterdam.nl.
+
+Locatie
+Flevopark in Amsterdam, http://www.flevopark.nl
+Hoe kom je er? Je gaat het park in via de ingang waar tram 3 en tram 14 hun eindhalte bereiken (halte Flevopark). Daar is ook het Flevoparkbad. Er is redelijk wat parkeergelegenheid. Je kunt op googlemaps een aardig beeld krijgen. Je loopt een paar minuutjes het pad af vanaf die ingang tot je aan je rechterhand een kinderspeelplaats ziet. Je ziet dat er dan ook een pad naar links gaat. Op het flinke grasveld in die hoek zitten wij!
+
+Kosten
+Neem zelf iets te eten en drinken mee om te delen met elkaar.
+
+Is het slecht weer? Dan proberen we een alternatief te bedenken. Wil je op de hoogte worden gehouden? Meld je dan aan op info@polyamsterdam.nl.
+* PolyDiner
+  :PROPERTIES:
+  :ID:        2A782306-65DE-4C8D-BB6B-B889E59A966C
+  :LOCATION:  Tidorestraat, 1095 KS Amsterdam, Nederland
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-06-14 Tue 19:00-23:00>
+
+Dinsdag 14 juni is er weer een PolyDiner!
+
+Voor de mensen die nog niet bekend zijn met het concept. Bij het de PolyLunches en PolyDiners wisselen we aan de eettafel ervaringen uit over polyamorie. Ben je jong of oud? Stel, single, trio of meer? Homo, hetero, lesbisch, bi, queer, pan, trans? Iedereen is welkom! Van elkaars verschillen kunnen we alleen maar leren.
+
+Er is geen georganiseerde discussie. Je praat met wie en over wat je wilt. Je kunt ervaringen uitwisselen, nieuwe mensen ontmoeten, een goed gesprek voeren of gewoon kletsen, alles is mogelijk.
+
+Waar is het?
+In Amsterdam Oost, Tidorestraat 123. Mocht je slecht ter been zijn, de locatie is op de vierde etage en er is helaas geen lift. Het diner begint om 19.00u (inloop vanaf 18.45u).
+
+Wat kost het?
+15 euro per persoon, eten en drinken zijn inbegrepen. Laat het weten als je specifieke eetwensen hebt dan kunnen we daar rekening mee houden.
+Is de 15 euro een belemmering? Neem dan even contact op, dan bedenken we een oplossing!
+
+Corona
+We zijn weer begonnen met bij elkaar komen maar de pandemie is nog niet helemaal voorbij. Om ook anderen te beschermen, denk eraan dat je bij corona-klachten thuisblijft en doe bij voorkeur ook van tevoren een zelftest. Meld je op tijd af, dan blijft wat je betaald hebt voor deze bijeenkomst staan voor de volgende keer dat je erbij bent.
+
+Aanmelden!
+Wil je er 14 juni bij zijn? Er is ruimte voor maximaal 15 personen dus meld je snel aan op info@polyamsterdam.nl. Op dit mailadres kun je ook terecht met vragen.

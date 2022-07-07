@@ -1,0 +1,13 @@
+#+DESCRIPTION: Journal
+#+TITLE:                  Journal
+#+CATEGORY:    Journal
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+#+FILETAGS:    journal
+
+* Journal entry for date: <wo 01-06-2022>
+ Woensdag 
+* Journal entry for date: <01-06-2022 20:14>
+ nu is ie goed 
+* Journal entry for date: <01-06-2022 20:15>
+ Nu dan 

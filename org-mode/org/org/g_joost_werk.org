@@ -1,0 +1,81 @@
+#+TITLE:       GCal Werk
+#+AUTHOR:      Joost Soeterbroek
+#+EMAIL:       joost.soeterbroek@gmail.com
+#+DESCRIPTION: converted using the ical2org awk script
+#+CATEGORY:    GCal Werk
+#+STARTUP:     hidestars
+#+STARTUP:     overview
+#+FILETAGS:    werk
+
+* Dictuu testing
+  :PROPERTIES:
+  :ID:        26l0qoj1q9grv1kdrhv1t1j74u@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-08 Fri 16:30-18:45>
+
+* Patchen
+  :PROPERTIES:
+  :ID:        496f2rkuvsm6ru3eu1789jf7tv@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-19 Tue 19:00-21:00>
+
+* Pathcen
+  :PROPERTIES:
+  :ID:        6k7j1ngqa8te9p1cm9vdbl96k7@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-26 Tue 19:00-21:00>
+
+* Verlof
+  :PROPERTIES:
+  :ID:        040000008200E00074C5B7101A82E0080000000060AB56F6B233D801000000000000000
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-05-29 Sun>--<2022-06-12 Sun>
+
+* Uitnodiging voor vergadering: Refinement LINUX Expertise Team incl BOO
+  :PROPERTIES:
+  :ID:        e214de13-b54b-4cfd-be31-53305213bb27
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-06-16 Thu 13:00-14:00>
+
+* Terugkoppeling TMA
+  :PROPERTIES:
+  :ID:        040000008200E00074C5B7101A82E00800000000408291DC3970D801000000000000000
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-06-21 Tue 09:00-11:00>
+
+* Save the date: DICTU (openings)feest nav versoepelingen en verhuizing DICTU Bruggebouw Oost
+  :PROPERTIES:
+  :ID:        040000008200E00074C5B7101A82E0080000000000FAC9417555D801000000000000000
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-06-09 Thu 15:30-19:00>
+
+* Gele tafel (sessies 2022 op de Woensdag)
+  :PROPERTIES:
+  :ID:        040000008200E00074C5B7101A82E00800000000C03932168FEBD701000000000000000
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-06-15 Wed 11:30-12:00>
+
