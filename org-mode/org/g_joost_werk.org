@@ -34,15 +34,6 @@
   :END:
 <2022-05-29 Sun>--<2022-06-12 Sun>
 
-* Vergadering gewijzigd: Refinment LINUX Team incl BOO Team
-  :PROPERTIES:
-  :ID:        d8a670bb-ccc4-40fa-839d-8a08fd3136d8
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-06-09 Thu 13:00-14:00>
-
 * Uitnodiging voor vergadering: Refinement LINUX Expertise Team incl BOO
   :PROPERTIES:
   :ID:        e214de13-b54b-4cfd-be31-53305213bb27
