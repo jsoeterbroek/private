@@ -9,7 +9,8 @@ CLOSED: [2022-06-01 Wed 12:22] SCHEDULED: <2022-06-01 Wed 11:00>
 ** TODO Regelen slaaptest ziekenhuis
 ** DONE Opvolgen Funda Dalfsen                                   :Verhuizing:
 CLOSED: [2022-06-03 Fri 20:27]
-** TODO Afspraak maken huisarts skintags verwijderen
+** DONE Afspraak maken huisarts skintags verwijderen
+CLOSED: [2022-07-07 Thu 14:25]
 ** TODO Foto’s (laten) maken
 [2022-06-01 Wed 14:48]
 * Backlog
