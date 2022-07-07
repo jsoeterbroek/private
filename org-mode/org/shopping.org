@@ -9,5 +9,8 @@ CLOSED: [2022-06-02 Thu 22:46]
 * GOT Coffeecream                                                  :shopping:
 CLOSED: [2022-06-15 Wed 14:16]
 * GET Zachte zolen schoenen                                        :shopping:
-* GET Scheermessen                                                       :shopping:
-* GET Nicotine pleisters                                                  :shopping:
+* GOT Scheermessen                                                 :shopping:
+CLOSED: [2022-06-26 Sun 11:33]
+* GET Nicotine pleisters                                           :shopping:
+* GOT Vitamine C
+CLOSED: [2022-06-27 Mon 14:15]

@@ -21,6 +21,7 @@ CLOSED: [2022-06-03 Fri 16:59] DEADLINE: <2022-06-03 Fri 21:00> SCHEDULED: <2022
 [2022-06-26 Sun 11:32]
 
 Zie mail voorbeeld
-* TODO EDC samenstellen
+* DONE EDC samenstellen
+CLOSED: [2022-07-07 Thu 14:31]
 * TODO Mirella bellen
 [2022-07-01 Fri 16:26]

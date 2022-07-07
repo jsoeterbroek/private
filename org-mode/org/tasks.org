@@ -9,17 +9,20 @@ CLOSED: [2022-06-01 Wed 12:22] SCHEDULED: <2022-06-01 Wed 11:00>
 ** TODO Regelen slaaptest ziekenhuis
 ** DONE Opvolgen Funda Dalfsen                                   :Verhuizing:
 CLOSED: [2022-06-03 Fri 20:27]
-** TODO Afspraak maken huisarts skintags verwijderen
+** DONE Afspraak maken huisarts skintags verwijderen
+CLOSED: [2022-07-07 Thu 14:25]
 ** TODO Foto’s (laten) maken
 [2022-06-01 Wed 14:48]
 * Backlog
 * DONE Reactie mail Dalfsen
 CLOSED: [2022-06-03 Fri 16:59] DEADLINE: <2022-06-03 Fri 21:00> SCHEDULED: <2022-06-03 Fri 21:00>
 [2022-06-03 Fri 15:31]
-* TODO Styrofoam wall tiles                                      :Verhuizing:
+* DONE Styrofoam wall tiles                                      :Verhuizing:
+CLOSED: [2022-07-07 Thu 14:38]
 [2022-06-26 Sun 11:32]
 
 Zie mail voorbeeld
-* TODO EDC samenstellen
-* TODO Mirella bellen
+* DONE EDC samenstellen
+CLOSED: [2022-07-07 Thu 14:31]
+* TODO [#A] Mirella bellen
 [2022-07-01 Fri 16:26]
