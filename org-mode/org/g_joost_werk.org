@@ -7,6 +7,24 @@
 #+STARTUP:     overview
 #+FILETAGS:    werk
 
+* Patchen
+  :PROPERTIES:
+  :ID:        496f2rkuvsm6ru3eu1789jf7tv@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-19 Tue 19:00-21:00>
+
+* Pathcen
+  :PROPERTIES:
+  :ID:        6k7j1ngqa8te9p1cm9vdbl96k7@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-26 Tue 19:00-21:00>
+
 * Verlof
   :PROPERTIES:
   :ID:        040000008200E00074C5B7101A82E0080000000060AB56F6B233D801000000000000000

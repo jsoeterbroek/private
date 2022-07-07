@@ -7,15 +7,6 @@
 #+STARTUP:     overview
 #+FILETAGS:    prive
 
-* Polyborrel Leiden
-  :PROPERTIES:
-  :ID:        vj22agbj183ga344lgdjcq8kqs@google.com
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-07-07 Thu 19:00-20:00>
-
 * Anita
   :PROPERTIES:
   :ID:        29liu53m1b8q0119frb534bfu0@google.com
