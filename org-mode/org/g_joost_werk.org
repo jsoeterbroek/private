@@ -7,15 +7,6 @@
 #+STARTUP:     overview
 #+FILETAGS:    werk
 
-* Dictuu testing
-  :PROPERTIES:
-  :ID:        26l0qoj1q9grv1kdrhv1t1j74u@google.com
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-07-08 Fri 16:30-18:45>
-
 * Patchen
   :PROPERTIES:
   :ID:        496f2rkuvsm6ru3eu1789jf7tv@google.com
