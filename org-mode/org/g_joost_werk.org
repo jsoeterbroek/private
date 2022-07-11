@@ -7,6 +7,701 @@
 #+STARTUP:     overview
 #+FILETAGS:    werk
 
+* Vergadering gewijzigd: Sprint Wissel LINUX Team (3 wekelijks)
+  :PROPERTIES:
+  :ID:        2644f633-e024-4108-8bad-ce254a22b35d
+  :LOCATION:  https 8c2cd636a64b3bab14
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-12 Tue 13:00-14:00>
+
+
+Welink. L.C. (Luc) heeft de informatie voor de Rijksvideo Vergadering gewijzigd.
+
+Wanneer het tijd is, neemt u hier deel aan de Rijksvideo Vergadering.
+
+
+U bent een co-host voor deze Webex-vergadering.
+Vergaderingnummer (toegangscode): 152 130 8238
+Wachtwoord voor vergadering: 4hkNKVeck89
+
+Gebeurt elke 3 week/weken op dinsdag met ingang vandinsdag 25 januari 2022 van 13:00 tot 14:00, (UTC+01:00) Amsterdam, Berlijn, Bern, Rome, Stockholm, Wenen
+0:00  |  (UTC-12:00) Internationale datumgrens West  |  1 uur
+
+Vergadering starten<https://rijksvideo.webex.com/rijksvideo/j.php?MTID=mf05b2a0914d6858c2cd636a64b3bab14>
+
+
+Meer manieren om deel te nemen:
+
+Deelnemen via de vergaderingskoppeling
+https://rijksvideo.webex.com/rijksvideo/j.php?MTID=mf05b2a0914d6858c2cd636a64b3bab14
+
+Tik om deel te nemen vanaf een mobiel apparaat (alleen deelnemers)
++31-2072-19842,,1521308238##<tel:%2B31-2072-19842,,*01*1521308238%23%23*01*> Netherlands Toll
++1-650-215-5226,,1521308238##<tel:%2B1-650-215-5226,,*01*1521308238%23%23*01*> United States Toll
+
+Deelnemen via telefoon
++31-2072-19842 Netherlands Toll
++1-650-215-5226 United States Toll
+Algemene inbelnummers<https://rijksvideo.webex.com/rijksvideo/globalcallin.php?MTID=me60faee847f9169be4ef566e8c2c74e2>
+
+Deelnemen via een videosysteem of -toepassing
+Kies 1521308238@rijksvideo.webex.com<sip:1521308238@rijksvideo.webex.com>
+U kunt ook 62.109.219.4 kiezen en uw vergaderingnummer invoeren.
+
+Hebt u hulp nodig? Ga naar http://help.webex.com
+
+
+
+* Vergadering gewijzigd: Refinment LINUX Team incl BOO Team
+  :PROPERTIES:
+  :ID:        d8a670bb-ccc4-40fa-839d-8a08fd3136d8
+  :LOCATION:  https 02c84325e7538c169d
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-21 Thu 13:00-14:00>
+
+
+Welink. L.C. (Luc) heeft de informatie voor de Rijksvideo Vergadering gewijzigd.
+
+Wanneer het tijd is, neemt u hier deel aan de Rijksvideo Vergadering.
+
+
+U bent een co-host voor deze Webex-vergadering.
+Vergaderingnummer (toegangscode): 152 680 5346
+Wachtwoord voor vergadering: J9HfGzc2n8q
+
+Gebeurt elke 3 week/weken op donderdag met ingang vandonderdag 03 februari 2022 van 13:00 tot 14:00, (UTC+01:00) Amsterdam, Berlijn, Bern, Rome, Stockholm, Wenen
+13:00  |  (UTC+01:00) Amsterdam, Berlijn, Bern, Rome, Stockholm, Wenen  |  1 uur
+
+Vergadering starten<https://rijksvideo.webex.com/rijksvideo/j.php?MTID=ma9fabdaa2e403602c84325e7538c169d>
+
+
+Meer manieren om deel te nemen:
+
+Deelnemen via de vergaderingskoppeling
+https://rijksvideo.webex.com/rijksvideo/j.php?MTID=ma9fabdaa2e403602c84325e7538c169d
+
+Tik om deel te nemen vanaf een mobiel apparaat (alleen deelnemers)
++31-2072-19842,,1526805346##<tel:%2B31-2072-19842,,*01*1526805346%23%23*01*> Netherlands Toll
++1-650-215-5226,,1526805346##<tel:%2B1-650-215-5226,,*01*1526805346%23%23*01*> United States Toll
+
+Deelnemen via telefoon
++31-2072-19842 Netherlands Toll
++1-650-215-5226 United States Toll
+Algemene inbelnummers<https://rijksvideo.webex.com/rijksvideo/globalcallin.php?MTID=m475cc9dca47012c4693b65e80b95f3c0>
+
+Deelnemen via een videosysteem of -toepassing
+Kies 1526805346@rijksvideo.webex.com<sip:1526805346@rijksvideo.webex.com>
+U kunt ook 62.109.219.4 kiezen en uw vergaderingnummer invoeren.
+
+Hebt u hulp nodig? Ga naar http://help.webex.com
+
+
+
+* Vaste Vrije dag
+  :PROPERTIES:
+  :ID:        040000008200E00074C5B7101A82E00800000000D03CFC28A5B9D601000000000000000
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-11 Mon 08:30-17:30>
+
+* Uitnodiging voor vergadering: Standup TAB+DO
+  :PROPERTIES:
+  :ID:        9e60fc2e-4bb6-4f4c-b60c-82198217b5f8
+  :LOCATION:  https c057969de25ba6058c
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-11 Mon 09:00-09:15>
+
+
+Adil Benkibbou nodigt u uit om deel te nemen aan deze Rijksvideo Vergadering.
+
+Vergaderingnummer (toegangscode): 2743 554 7205
+Wachtwoord voor vergadering: aRrfVFJ3p46
+
+Gebeurt elke weekdag, met ingang van vrijdag 08 juli 2022 van 9:00 tot 9:15, (UTC+02:00) Amsterdam, Berlijn, Bern, Rome, Stockholm, Wenen
+9:00  |  (UTC+02:00) Amsterdam, Berlijn, Bern, Rome, Stockholm, Wenen  |  15 minuten
+
+Deelnemen aan vergadering<https://rijksvideo.webex.com/rijksvideo/j.php?MTID=me06c4072837e9bc057969de25ba6058c>
+
+
+Meer manieren om deel te nemen:
+
+Deelnemen via de vergaderingskoppeling
+https://rijksvideo.webex.com/rijksvideo/j.php?MTID=me06c4072837e9bc057969de25ba6058c
+
+Tik om deel te nemen vanaf een mobiel apparaat (alleen deelnemers)
++31-2072-19842,,27435547205##<tel:%2B31-2072-19842,,*01*27435547205%23%23*01*> Netherlands Toll
++1-650-215-5226,,27435547205##<tel:%2B1-650-215-5226,,*01*27435547205%23%23*01*> United States Toll
+
+Deelnemen via telefoon
++31-2072-19842 Netherlands Toll
++1-650-215-5226 United States Toll
+Algemene inbelnummers<https://rijksvideo.webex.com/rijksvideo/globalcallin.php?MTID=m60ce50c71334a30e51153d57929c8cd0>
+
+Deelnemen via een videosysteem of -toepassing
+Kies 27435547205@rijksvideo.webex.com<sip:27435547205@rijksvideo.webex.com>
+U kunt ook 62.109.219.4 kiezen en uw vergaderingnummer invoeren.
+
+Hebt u hulp nodig? Ga naar http://help.webex.com
+
+
+
+* Uitnodiging voor vergadering: Sprintplanning TAB+DO
+  :PROPERTIES:
+  :ID:        4637c3de-cf1c-4de3-9fa8-49d82e66e9af
+  :LOCATION:  https 082093b5569606e649
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-14 Thu 09:15-12:00>
+
+Planning Sprint 10
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+Adil Benkibbou nodigt u uit om deel te nemen aan deze Rijksvideo Vergadering.
+
+Vergaderingnummer (toegangscode): 2744 199 5151
+Wachtwoord voor vergadering: YJk3hPNvG35
+
+donderdag 14 juli 2022
+9:15  |  (UTC+02:00) Amsterdam, Berlijn, Bern, Rome, Stockholm, Wenen  |  2 uren 45 minuten
+
+Deelnemen aan vergadering<https://rijksvideo.webex.com/rijksvideo/j.php?MTID=md9ecbf2cd461cd082093b5569606e649>
+
+
+Meer manieren om deel te nemen:
+
+Deelnemen via de vergaderingskoppeling
+https://rijksvideo.webex.com/rijksvideo/j.php?MTID=md9ecbf2cd461cd082093b5569606e649
+
+Tik om deel te nemen vanaf een mobiel apparaat (alleen deelnemers)
++31-2072-19842,,27441995151##<tel:%2B31-2072-19842,,*01*27441995151%23%23*01*> Netherlands Toll
++1-650-215-5226,,27441995151##<tel:%2B1-650-215-5226,,*01*27441995151%23%23*01*> United States Toll
+
+Deelnemen via telefoon
++31-2072-19842 Netherlands Toll
++1-650-215-5226 United States Toll
+Algemene inbelnummers<https://rijksvideo.webex.com/rijksvideo/globalcallin.php?MTID=m77f24dc765de6d88941f3b3be2a6164a>
+
+Deelnemen via een videosysteem of -toepassing
+Kies 27441995151@rijksvideo.webex.com<sip:27441995151@rijksvideo.webex.com>
+U kunt ook 62.109.219.4 kiezen en uw vergaderingnummer invoeren.
+
+Hebt u hulp nodig? Ga naar http://help.webex.com
+
+
+
+* Uitnodiging voor vergadering: Sprintplanning TAB+DO
+  :PROPERTIES:
+  :ID:        0dcb8e96-b9d4-4f81-8496-131a1ee691c8
+  :LOCATION:  https 27dd0820df90f063af
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-08-04 Thu 13:00-14:30>
+
+
+Adil Benkibbou nodigt u uit om deel te nemen aan deze Rijksvideo Vergadering.
+
+Vergaderingnummer (toegangscode): 2740 912 6575
+Wachtwoord voor vergadering: 8CFxiFzUc43
+
+Gebeurt elke 3 week/weken op donderdag met ingang vandonderdag 04 augustus 2022 van 13:00 tot 14:30, (UTC+02:00) Amsterdam, Berlijn, Bern, Rome, Stockholm, Wenen
+13:00  |  (UTC+02:00) Amsterdam, Berlijn, Bern, Rome, Stockholm, Wenen  |  1 uur 30 minuten
+
+Deelnemen aan vergadering<https://rijksvideo.webex.com/rijksvideo/j.php?MTID=m6ac0ec3afd4e2827dd0820df90f063af>
+
+
+Meer manieren om deel te nemen:
+
+Deelnemen via de vergaderingskoppeling
+https://rijksvideo.webex.com/rijksvideo/j.php?MTID=m6ac0ec3afd4e2827dd0820df90f063af
+
+Tik om deel te nemen vanaf een mobiel apparaat (alleen deelnemers)
++31-2072-19842,,27409126575##<tel:%2B31-2072-19842,,*01*27409126575%23%23*01*> Netherlands Toll
++1-650-215-5226,,27409126575##<tel:%2B1-650-215-5226,,*01*27409126575%23%23*01*> United States Toll
+
+Deelnemen via telefoon
++31-2072-19842 Netherlands Toll
++1-650-215-5226 United States Toll
+Algemene inbelnummers<https://rijksvideo.webex.com/rijksvideo/globalcallin.php?MTID=m0cfc66a6c2d208f08c7036d08789f366>
+
+Deelnemen via een videosysteem of -toepassing
+Kies 27409126575@rijksvideo.webex.com<sip:27409126575@rijksvideo.webex.com>
+U kunt ook 62.109.219.4 kiezen en uw vergaderingnummer invoeren.
+
+Hebt u hulp nodig? Ga naar http://help.webex.com
+
+
+
+* Uitnodiging voor vergadering: Review TAB+DO
+  :PROPERTIES:
+  :ID:        1228eef0-768a-4518-ace1-25e2b91d873c
+  :LOCATION:  https 18093377035f2faa20
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-08-04 Thu 09:15-10:15>
+
+
+Adil Benkibbou nodigt u uit om deel te nemen aan deze Rijksvideo Vergadering.
+
+Vergaderingnummer (toegangscode): 2741 287 3011
+Wachtwoord voor vergadering: Ze64amedip3
+
+Gebeurt elke 3 week/weken op donderdag met ingang vandonderdag 04 augustus 2022 van 9:15 tot 10:15, (UTC+02:00) Amsterdam, Berlijn, Bern, Rome, Stockholm, Wenen
+9:15  |  (UTC+02:00) Amsterdam, Berlijn, Bern, Rome, Stockholm, Wenen  |  1 uur
+
+Deelnemen aan vergadering<https://rijksvideo.webex.com/rijksvideo/j.php?MTID=mc25135ca552d7b18093377035f2faa20>
+
+
+Meer manieren om deel te nemen:
+
+Deelnemen via de vergaderingskoppeling
+https://rijksvideo.webex.com/rijksvideo/j.php?MTID=mc25135ca552d7b18093377035f2faa20
+
+Tik om deel te nemen vanaf een mobiel apparaat (alleen deelnemers)
++31-2072-19842,,27412873011##<tel:%2B31-2072-19842,,*01*27412873011%23%23*01*> Netherlands Toll
++1-650-215-5226,,27412873011##<tel:%2B1-650-215-5226,,*01*27412873011%23%23*01*> United States Toll
+
+Deelnemen via telefoon
++31-2072-19842 Netherlands Toll
++1-650-215-5226 United States Toll
+Algemene inbelnummers<https://rijksvideo.webex.com/rijksvideo/globalcallin.php?MTID=m3503701b7498f205ed18ef7b6392afb8>
+
+Deelnemen via een videosysteem of -toepassing
+Kies 27412873011@rijksvideo.webex.com<sip:27412873011@rijksvideo.webex.com>
+U kunt ook 62.109.219.4 kiezen en uw vergaderingnummer invoeren.
+
+Hebt u hulp nodig? Ga naar http://help.webex.com
+
+
+
+* Uitnodiging voor vergadering: Retrospective TAB+DO
+  :PROPERTIES:
+  :ID:        f0c87fa1-58b7-418f-b445-7b9d25bb67ac
+  :LOCATION:  https d22f53fec23dcd90bc
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-08-04 Thu 10:15-11:00>
+
+
+Adil Benkibbou nodigt u uit om deel te nemen aan deze Rijksvideo Vergadering.
+
+Vergaderingnummer (toegangscode): 2742 707 6315
+Wachtwoord voor vergadering: gsCJjqWn768
+
+Gebeurt elke 3 week/weken op donderdag met ingang vandonderdag 04 augustus 2022 van 10:15 tot 11:00, (UTC+02:00) Amsterdam, Berlijn, Bern, Rome, Stockholm, Wenen
+10:15  |  (UTC+02:00) Amsterdam, Berlijn, Bern, Rome, Stockholm, Wenen  |  45 minuten
+
+Deelnemen aan vergadering<https://rijksvideo.webex.com/rijksvideo/j.php?MTID=m482804e4556bb5d22f53fec23dcd90bc>
+
+
+Meer manieren om deel te nemen:
+
+Deelnemen via de vergaderingskoppeling
+https://rijksvideo.webex.com/rijksvideo/j.php?MTID=m482804e4556bb5d22f53fec23dcd90bc
+
+Tik om deel te nemen vanaf een mobiel apparaat (alleen deelnemers)
++31-2072-19842,,27427076315##<tel:%2B31-2072-19842,,*01*27427076315%23%23*01*> Netherlands Toll
++1-650-215-5226,,27427076315##<tel:%2B1-650-215-5226,,*01*27427076315%23%23*01*> United States Toll
+
+Deelnemen via telefoon
++31-2072-19842 Netherlands Toll
++1-650-215-5226 United States Toll
+Algemene inbelnummers<https://rijksvideo.webex.com/rijksvideo/globalcallin.php?MTID=m56d6e3e5303324ef1c87c45729421d95>
+
+Deelnemen via een videosysteem of -toepassing
+Kies 27427076315@rijksvideo.webex.com<sip:27427076315@rijksvideo.webex.com>
+U kunt ook 62.109.219.4 kiezen en uw vergaderingnummer invoeren.
+
+Hebt u hulp nodig? Ga naar http://help.webex.com
+
+
+
+* Uitnodiging voor vergadering: Refinement TAB+DO
+  :PROPERTIES:
+  :ID:        e567f588-6ffa-41ad-ae8b-2cdd1cee61ba
+  :LOCATION:  https 69026cd19fff20f823
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-11 Mon 13:30-15:00>
+
+Backlog refinement ter voorbereiding van sprintplanning
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+Adil Benkibbou nodigt u uit om deel te nemen aan deze Rijksvideo Vergadering.
+
+Vergaderingnummer (toegangscode): 2742 834 1767
+Wachtwoord voor vergadering: MCcR6mu2xC9
+
+maandag 11 juli 2022
+13:30  |  (UTC+02:00) Amsterdam, Berlijn, Bern, Rome, Stockholm, Wenen  |  1 uur 30 minuten
+
+Deelnemen aan vergadering<https://rijksvideo.webex.com/rijksvideo/j.php?MTID=ma659140e1fe20469026cd19fff20f823>
+
+
+Meer manieren om deel te nemen:
+
+Deelnemen via de vergaderingskoppeling
+https://rijksvideo.webex.com/rijksvideo/j.php?MTID=ma659140e1fe20469026cd19fff20f823
+
+Tik om deel te nemen vanaf een mobiel apparaat (alleen deelnemers)
++31-2072-19842,,27428341767##<tel:%2B31-2072-19842,,*01*27428341767%23%23*01*> Netherlands Toll
++1-650-215-5226,,27428341767##<tel:%2B1-650-215-5226,,*01*27428341767%23%23*01*> United States Toll
+
+Deelnemen via telefoon
++31-2072-19842 Netherlands Toll
++1-650-215-5226 United States Toll
+Algemene inbelnummers<https://rijksvideo.webex.com/rijksvideo/globalcallin.php?MTID=m287140d11da03b9b685e0420ddd784d6>
+
+Deelnemen via een videosysteem of -toepassing
+Kies 27428341767@rijksvideo.webex.com<sip:27428341767@rijksvideo.webex.com>
+U kunt ook 62.109.219.4 kiezen en uw vergaderingnummer invoeren.
+
+Hebt u hulp nodig? Ga naar http://help.webex.com
+
+
+
+* Uitnodiging voor vergadering: Refinement TAB+DO
+  :PROPERTIES:
+  :ID:        d1f65cbd-0814-4f4b-812e-fcecb85c0520
+  :LOCATION:  https aa250d51046436d754
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-28 Thu 13:00-14:00>
+
+Backlog Refinement ter voorbereiding van Sprintplanning
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+Adil Benkibbou nodigt u uit om deel te nemen aan deze Rijksvideo Vergadering.
+
+Vergaderingnummer (toegangscode): 2744 909 6125
+Wachtwoord voor vergadering: D6pw3AP7p6h
+
+Gebeurt elke 3 week/weken op donderdag met ingang vandonderdag 28 juli 2022 van 13:00 tot 14:00, (UTC+02:00) Amsterdam, Berlijn, Bern, Rome, Stockholm, Wenen
+13:00  |  (UTC+02:00) Amsterdam, Berlijn, Bern, Rome, Stockholm, Wenen  |  1 uur
+
+Deelnemen aan vergadering<https://rijksvideo.webex.com/rijksvideo/j.php?MTID=m9f665b90944240aa250d51046436d754>
+
+
+Meer manieren om deel te nemen:
+
+Deelnemen via de vergaderingskoppeling
+https://rijksvideo.webex.com/rijksvideo/j.php?MTID=m9f665b90944240aa250d51046436d754
+
+Tik om deel te nemen vanaf een mobiel apparaat (alleen deelnemers)
++31-2072-19842,,27449096125##<tel:%2B31-2072-19842,,*01*27449096125%23%23*01*> Netherlands Toll
++1-650-215-5226,,27449096125##<tel:%2B1-650-215-5226,,*01*27449096125%23%23*01*> United States Toll
+
+Deelnemen via telefoon
++31-2072-19842 Netherlands Toll
++1-650-215-5226 United States Toll
+Algemene inbelnummers<https://rijksvideo.webex.com/rijksvideo/globalcallin.php?MTID=m3a06e8f29bd6fb1c67314ad28f5f302b>
+
+Deelnemen via een videosysteem of -toepassing
+Kies 27449096125@rijksvideo.webex.com<sip:27449096125@rijksvideo.webex.com>
+U kunt ook 62.109.219.4 kiezen en uw vergaderingnummer invoeren.
+
+Hebt u hulp nodig? Ga naar http://help.webex.com
+
+
+
+* Uitnodiging voor vergadering: Refinement TAB+DO
+  :PROPERTIES:
+  :ID:        25dca646-0115-40fa-839d-e7526a9bfe75
+  :LOCATION:  https f394c4d6d119b1e305
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-21 Thu 13:00-14:00>
+
+Backlog Refinement ter voorbereiding van Sprintplanning
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+Adil Benkibbou nodigt u uit om deel te nemen aan deze Rijksvideo Vergadering.
+
+Vergaderingnummer (toegangscode): 2740 813 9374
+Wachtwoord voor vergadering: MDrTsmsY535
+
+Gebeurt elke 3 week/weken op donderdag met ingang vandonderdag 21 juli 2022 van 13:00 tot 14:00, (UTC+02:00) Amsterdam, Berlijn, Bern, Rome, Stockholm, Wenen
+13:00  |  (UTC+02:00) Amsterdam, Berlijn, Bern, Rome, Stockholm, Wenen  |  1 uur
+
+Deelnemen aan vergadering<https://rijksvideo.webex.com/rijksvideo/j.php?MTID=m2717c44f1bd719f394c4d6d119b1e305>
+
+
+Meer manieren om deel te nemen:
+
+Deelnemen via de vergaderingskoppeling
+https://rijksvideo.webex.com/rijksvideo/j.php?MTID=m2717c44f1bd719f394c4d6d119b1e305
+
+Tik om deel te nemen vanaf een mobiel apparaat (alleen deelnemers)
++31-2072-19842,,27408139374##<tel:%2B31-2072-19842,,*01*27408139374%23%23*01*> Netherlands Toll
++1-650-215-5226,,27408139374##<tel:%2B1-650-215-5226,,*01*27408139374%23%23*01*> United States Toll
+
+Deelnemen via telefoon
++31-2072-19842 Netherlands Toll
++1-650-215-5226 United States Toll
+Algemene inbelnummers<https://rijksvideo.webex.com/rijksvideo/globalcallin.php?MTID=m0c93a4b23dfd71b6be743a1a97ecd786>
+
+Deelnemen via een videosysteem of -toepassing
+Kies 27408139374@rijksvideo.webex.com<sip:27408139374@rijksvideo.webex.com>
+U kunt ook 62.109.219.4 kiezen en uw vergaderingnummer invoeren.
+
+Hebt u hulp nodig? Ga naar http://help.webex.com
+
+
+
+* Uitnodiging voor vergadering: Refinement LINUX Expertise Team incl BOO
+  :PROPERTIES:
+  :ID:        e214de13-b54b-4cfd-be31-53305213bb27
+  :LOCATION:  https ead3d7717062cb4d12
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-28 Thu 13:00-14:00>
+
+
+Welink. L.C. (Luc) nodigt u uit om deel te nemen aan deze Rijksvideo Vergadering.
+
+Vergaderingnummer (toegangscode): 2740 883 2670
+Wachtwoord voor vergadering: vwJmp3ZVF83
+
+Gebeurt elke 3 week/weken op donderdag met ingang vandonderdag 20 januari 2022 van 13:00 tot 14:00, (UTC+01:00) Amsterdam, Berlijn, Bern, Rome, Stockholm, Wenen
+13:00  |  (UTC+01:00) Amsterdam, Berlijn, Bern, Rome, Stockholm, Wenen  |  1 uur
+
+Deelnemen aan vergadering<https://rijksvideo.webex.com/rijksvideo/j.php?MTID=m467ba1b727832cead3d7717062cb4d12>
+
+
+Meer manieren om deel te nemen:
+
+Deelnemen via de vergaderingskoppeling
+https://rijksvideo.webex.com/rijksvideo/j.php?MTID=m467ba1b727832cead3d7717062cb4d12
+
+Tik om deel te nemen vanaf een mobiel apparaat (alleen deelnemers)
++31-2072-19842,,27408832670##<tel:%2B31-2072-19842,,*01*27408832670%23%23*01*> Netherlands Toll
++1-650-215-5226,,27408832670##<tel:%2B1-650-215-5226,,*01*27408832670%23%23*01*> United States Toll
+
+Deelnemen via telefoon
++31-2072-19842 Netherlands Toll
++1-650-215-5226 United States Toll
+Algemene inbelnummers<https://rijksvideo.webex.com/rijksvideo/globalcallin.php?MTID=m27eccaa79f76bdcc3d7f5f9e6d011d35>
+
+Deelnemen via een videosysteem of -toepassing
+Kies 27408832670@rijksvideo.webex.com<sip:27408832670@rijksvideo.webex.com>
+U kunt ook 62.109.219.4 kiezen en uw vergaderingnummer invoeren.
+
+Hebt u hulp nodig? Ga naar http://help.webex.com
+
+
+
+* Tijdschrijven
+  :PROPERTIES:
+  :ID:        040000008200E00074C5B7101A82E0080000000040A58E1A9642D301000000000000000
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-15 Fri 08:00-08:30>
+
+Beste mensen,
+
+Deze afspraak zet ik in jullie agenda’s om centraal iedereen te herinneren aan het insturen van de urenstaat voor deze week.
+Dat mag op een voor jou geschikt moment, als het maar op deze vrijdag gebeurt.
+Als het nog niet kan omdat je bijvoorbeeld in het weekend gaat werken, verstuur dan de urenstaat uiterlijk maandag a.s. vóór 9 uur.
+
+Op maandagochtend kunnen de goedkeurders (o.a. Product Owners, Delivery Managers en Teamleider) dan nog hun akkoord geven. Ook kan dan de facturatie-run op tijd en compleet worden uitgevoerd.
+
+Los van deze afspraak, moeten we ook de urenstaten op de laatste dag van de maand versturen, en dan wel gelijk voor die hele week.
+
+Hiermee bereiken we dat facturen volledig zijn, projectrapportages financieel juist zijn, en onze financiële voorspelbaarheid groter is in projecten en het maandelijks beheerbudget.
+Bedankt voor het tijdig schrijven van je uren!
+
+Met vriendelijke groet,
+
+Erik van der Hout
+Directie Infrastructuur
+Divisie Hoog Beveiligd
+Teamleider Projecten
+........................................................................
+DICTU
+Bezuidenhoutseweg 73| 2594 AC | Den Haag
+Postbus 20401 | 2500 EK | Den Haag
+........................................................................
+T 088 0413659
+M 0615100100
+e.j.g.vanderhout@dictu.nl <mailto:e.j.g.vanderhout@dictu.nl>
+
+
+
+
+
+* Team Δ, Σ, A & Γ Sprint review
+  :PROPERTIES:
+  :ID:        040000008200E00074C5B7101A82E00800000000E014FC2ABA63D801000000000000000
+  :LOCATION:  Microsoft Teams-vergadering
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-14 Thu 11:00-12:00>
+
+* Linux voorzieningen autom. patching
+  :PROPERTIES:
+  :ID:        040000008200E00074C5B7101A82E00800000000A01A67455C85D801000000000000000
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-12 Tue 19:00-23:00>
+
+* Kennismakingsgesprek Rolf Zwart
+  :PROPERTIES:
+  :ID:        040000008200E00074C5B7101A82E00800000000AB8F56391D95D801000000000000000
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-12 Tue 15:00-16:00>
+
+Beste Rolf,
+
+In antwoord op uw sollicitatie via Experis nodigen wij u hierbij graag uit voor een kennismakingsgesprek voor de functie van Red Hat Linux specialist bij DICTU.
+
+Na het lezen van uw reactie zijn wij geïnteresseerd geraakt in uw kwaliteiten. Wij willen u graag uitnodigen om in een gesprek uw kwaliteiten zowel op professioneel als persoonlijk niveau nader toe te lichten.
+
+Wanneer:
+
+Dinsdag 12 Juli on 15:00-16:00
+
+Wie:
+
+Het gesprek zal worden gehouden met Joost Soeterbroek, Jan Gerritsen en Kei Wong
+
+Hoe:
+
+Om met elkaar in contact te komen moet je hieronder op de link &quot;klik hier om deel te nemen aan de vergadering&quot; te klikken. Vergeet niet de uitnodiging te accepteren.
+
+Mocht de datum of tijdstip u toch niet uitkomen, dan kunt u contact opnemen met 0616438775 om een andere afspraak te maken.
+
+Veel succes!
+
+________________________________________________________________________________
+Microsoft Teams meeting
+
+Join on your computer or mobile app
+Click here to join the meeting<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWUyMzIxYzAtMGRjNS00ZDBmLWFiYTYtOTRkYzE2MmFjMGVm%40thread.v2/0?context=%7b%22Tid%22%3a%221321633e-f6b9-44e2-a44f-59b9d264ecb7%22%2c%22Oid%22%3a%224d6d4109-8a3e-4960-8a17-00830a1504ee%22%7d>
+Or join by entering a meeting ID
+Meeting ID: 386 247 462 197
+Passcode: GtBcgM
+Join with a video conferencing device
+dictu@m.webex.com
+Video Conference ID: 125 915 378 5
+Alternative VTC instructions<https://www.webex.com/msteams?confid=1259153785&tenantkey=dictu&domain=m.webex.com>
+
+Or call in (audio only)
+&#43;31 20 258 8614,,78587119#<tel:+31202588614,,78587119#>   Netherlands, Amsterdam
+Phone Conference ID: 785 871 19#
+Find a local number<https://dialin.teams.microsoft.com/7cfd4ed8-7e43-4623-a2fd-1d68747b2e3e?id=78587119> | Reset PIN<https://dialin.teams.microsoft.com/usp/pstnconferencing>
+
+Learn more<https://aka.ms/JoinTeamsMeeting> | Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=4d6d4109-8a3e-4960-8a17-00830a1504ee&tenantId=1321633e-f6b9-44e2-a44f-59b9d264ecb7&threadId=19_meeting_MWUyMzIxYzAtMGRjNS00ZDBmLWFiYTYtOTRkYzE2MmFjMGVm@thread.v2&messageId=0&language=en-GB>
+
+________________________________________________________________________________
+
+* Kennismakingsgesprek Ivo Schooneman.
+  :PROPERTIES:
+  :ID:        040000008200E00074C5B7101A82E00800000000A181B0BACB91D801000000000000000
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-12 Tue 09:00-10:00>
+
+Beste Ivo,
+
+In antwoord op uw sollicitatie via SLTN nodigen wij u hierbij graag uit voor een kennismakingsgesprek voor de functie van Red Hat specialist bij DICTU.
+
+Na het lezen van uw reactie zijn wij geïnteresseerd geraakt in uw kwaliteiten. Wij willen u graag uitnodigen om in een gesprek uw kwaliteiten zowel op professioneel als persoonlijk niveau nader toe te lichten.
+
+Wanneer:
+
+Dinsdag 12 Juli on 09:00-10:00
+
+Wie:
+
+Het gesprek zal worden gehouden met Joost Soeterbroek, Jan Gerritsen en Kei Wong
+
+Hoe:
+
+Om met elkaar in contact te komen moet je hieronder op de link &quot;klik hier om deel te nemen aan de vergadering&quot; te klikken. Vergeet niet de uitnodiging te accepteren.
+
+Mocht de datum of tijdstip u toch niet uitkomen, dan kunt u contact opnemen met 0616438775 om een andere afspraak te maken.
+
+Veel succes!
+
+________________________________________________________________________________
+Microsoft Teams meeting
+
+Join on your computer or mobile app
+Click here to join the meeting<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjYxMzI5OTEtOWRhNi00YTBjLThhMzUtOGJmZmE2ZmU5Mjg2%40thread.v2/0?context=%7b%22Tid%22%3a%221321633e-f6b9-44e2-a44f-59b9d264ecb7%22%2c%22Oid%22%3a%224d6d4109-8a3e-4960-8a17-00830a1504ee%22%7d>
+Or join by entering a meeting ID
+Meeting ID: 334 476 524 835
+Passcode: d4LpLf
+Join with a video conferencing device
+dictu@m.webex.com
+Video Conference ID: 126 001 130 5
+Alternative VTC instructions<https://www.webex.com/msteams?confid=1260011305&tenantkey=dictu&domain=m.webex.com>
+
+Or call in (audio only)
+&#43;31 20 258 8614,,872304218#<tel:+31202588614,,872304218#>   Netherlands, Amsterdam
+Phone Conference ID: 872 304 218#
+Find a local number<https://dialin.teams.microsoft.com/7cfd4ed8-7e43-4623-a2fd-1d68747b2e3e?id=872304218> | Reset PIN<https://dialin.teams.microsoft.com/usp/pstnconferencing>
+
+Learn more<https://aka.ms/JoinTeamsMeeting> | Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=4d6d4109-8a3e-4960-8a17-00830a1504ee&tenantId=1321633e-f6b9-44e2-a44f-59b9d264ecb7&threadId=19_meeting_MjYxMzI5OTEtOWRhNi00YTBjLThhMzUtOGJmZmE2ZmU5Mjg2@thread.v2&messageId=0&language=en-GB>
+
+________________________________________________________________________________
+
+* Gele tafel (sessies 2022 op de Woensdag)
+  :PROPERTIES:
+  :ID:        040000008200E00074C5B7101A82E00800000000C03932168FEBD701000000000000000
+  :LOCATION:  Microsoft Teams-vergadering
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-13 Wed 11:30-12:00>
+
+* Gele tafel (sessies 2022 op de dinsdag)
+  :PROPERTIES:
+  :ID:        040000008200E00074C5B7101A82E008000000000088965463EBD701000000000000000
+  :LOCATION:  Microsoft Teams-vergadering
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-26 Tue 11:30-12:00>
+
 * Patchen
   :PROPERTIES:
   :ID:        496f2rkuvsm6ru3eu1789jf7tv@google.com
@@ -25,15 +720,6 @@
   :END:
 <2022-07-26 Tue 19:00-21:00>
 
-* Uitnodiging voor vergadering: Refinement LINUX Expertise Team incl BOO
-  :PROPERTIES:
-  :ID:        e214de13-b54b-4cfd-be31-53305213bb27
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-06-16 Thu 13:00-14:00>
-
 * Terugkoppeling TMA
   :PROPERTIES:
   :ID:        040000008200E00074C5B7101A82E00800000000408291DC3970D801000000000000000
@@ -42,13 +728,4 @@
   :ATTENDEES: 
   :END:
 <2022-06-21 Tue 09:00-11:00>
-
-* Gele tafel (sessies 2022 op de Woensdag)
-  :PROPERTIES:
-  :ID:        040000008200E00074C5B7101A82E00800000000C03932168FEBD701000000000000000
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-06-15 Wed 11:30-12:00>
 
