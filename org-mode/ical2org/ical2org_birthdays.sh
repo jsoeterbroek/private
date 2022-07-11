@@ -13,10 +13,10 @@ URL="https://calendar.google.com/calendar/ical/aple3t1iitml2jetcosq2ng0ng%40grou
 
 echo "INFO: running ical2org_birthdays..."
 $WGET -q -O $ICSFILE $URL
-echo "INFO: output to $GITORGFILE"
+#echo "INFO: output to $GITORGFILE"
 $ICS2ORG < $ICSFILE > $GITORGFILE
-echo "INFO: output to $LOCALORGFILE"
+#echo "INFO: output to $LOCALORGFILE"
 $ICS2ORG < $ICSFILE > $LOCALORGFILE
-echo "INFO: output to $DROPBOXORGFILE"
+#echo "INFO: output to $DROPBOXORGFILE"
 $ICS2ORG < $ICSFILE > $DROPBOXORGFILE
 rm -f $ICSFILE
