@@ -7,6 +7,15 @@
 #+STARTUP:     overview
 #+FILETAGS:    prive
 
+* Maandag schuur (Carla)
+  :PROPERTIES:
+  :ID:        4fp0dudtfu1dk3p5i15aeasa70@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-11 Mon 12:00-16:00>
+
 * Anita
   :PROPERTIES:
   :ID:        29liu53m1b8q0119frb534bfu0@google.com
@@ -124,18 +133,6 @@
   :END:
 <2022-07-10 Sun 10:30-17:00>
 
-* Jingles q&a
-  :PROPERTIES:
-  :ID:        vgpipf1gnk6mlbam4hdklclk5g@google.com
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-06-11 Sat 11:00-12:00>
-
-@everyone Right this time for sure, join us Saturday 11th of June at 11:00 AM GMT+1 (provided Daylight savings if there is one doesn't correct me on that) as we host the reboot of our monthly LIVE Q&A'S with the one and only Salt Mines Overlord <@270601761570422785> himself! As usual our questions channel will be opened roughly 10-15 minutes before the start of the Q&A as to make responses to user asked questions feel more live.
-
-Q&A's typically last between 45 minutes and anywhere up to 2 hours so be sure to have your burning questions ready to be answered by The Mighty Jingles live on stage.
 * BC vergadering
   :PROPERTIES:
   :ID:        8sjlpu0d1bngs3nf1n5ojf2dfk@google.com
@@ -144,15 +141,6 @@ Q&A's typically last between 45 minutes and anywhere up to 2 hours so be sure to
   :ATTENDEES: 
   :END:
 <2022-06-28 Tue 19:30-20:30>
-
-* Anita BE
-  :PROPERTIES:
-  :ID:        77vd64k5gt4kvt8mnfjehu9dvg@google.com
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-06-11 Sat>--<2022-06-12 Sun>
 
 * Terugkoppeling TMA
   :PROPERTIES:
