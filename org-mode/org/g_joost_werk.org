@@ -7,6 +7,15 @@
 #+STARTUP:     overview
 #+FILETAGS:    werk
 
+* Kantoor Zwolle
+  :PROPERTIES:
+  :ID:        7mu5rdsqsudgfonm63pbp6gcj7@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-19 Tue 08:30-17:30>
+
 * Vergadering gewijzigd: Refinment LINUX Team incl BOO Team
   :PROPERTIES:
   :ID:        d8a670bb-ccc4-40fa-839d-8a08fd3136d8
@@ -419,16 +428,6 @@ e.j.g.vanderhout@dictu.nl <mailto:e.j.g.vanderhout@dictu.nl>
 
 
 
-* Team Δ, Σ, A & Γ Sprint review
-  :PROPERTIES:
-  :ID:        040000008200E00074C5B7101A82E00800000000E014FC2ABA63D801000000000000000
-  :LOCATION:  Microsoft Teams-vergadering
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-07-14 Thu 11:00-12:00>
-
 * Standup TAB+DO
   :PROPERTIES:
   :ID:        9e60fc2e-4bb6-4f4c-b60c-82198217b5f8
@@ -519,14 +518,14 @@ Hebt u hulp nodig? Ga naar http://help.webex.com
 
 
 
-* Linux voorzieningen autom. patching
+* Linux voorzieingen autom. patching
   :PROPERTIES:
   :ID:        040000008200E00074C5B7101A82E00800000000A01A67455C85D801000000000000000
   :STATUS:    CONFIRMED
   :ATTENDING: ATTENDING
   :ATTENDEES: 
   :END:
-<2022-07-12 Tue 19:00-23:00>
+<2022-07-26 Tue 19:00-23:00>
 
 * Kennismakingsgesprek Rolf Zwart
   :PROPERTIES:
