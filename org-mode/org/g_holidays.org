@@ -29,17 +29,6 @@ To hide observances, go to Google Calendar Settings > Holidays in Netherlands
 
 Observance
 To hide observances, go to Google Calendar Settings > Holidays in Netherlands
-* Father's Day
-  :PROPERTIES:
-  :ID:        20220619_feommve53p6jl8nkc3n9fjvbi0@google.com
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-06-19 Sun>
-
-Observance
-To hide observances, go to Google Calendar Settings > Holidays in Netherlands
 * New Year's Eve
   :PROPERTIES:
   :ID:        20221231_36grh7keh91a08iebinefk48k8@google.com

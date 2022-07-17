@@ -7,6 +7,17 @@
 #+STARTUP:     overview
 #+FILETAGS:    prive
 
+* Bellen de boeier
+  :PROPERTIES:
+  :ID:        5t6lramaporllv312s4an0a6co@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-18 Mon 09:30-10:30>
+
+Maandagochtend vanaf half 10 Valerie
+038 4536973
 * Maandag schuur (Carla)
   :PROPERTIES:
   :ID:        4fp0dudtfu1dk3p5i15aeasa70@google.com
@@ -87,15 +98,6 @@
   :ATTENDEES: 
   :END:
 <2022-08-02 Tue 10:10-11:10>
-
-* Anita
-  :PROPERTIES:
-  :ID:        6s478go21d40glje42pvtgsunu@google.com
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-06-18 Sat 14:00-21:00>
 
 * Tuindag gw Zwolle
   :PROPERTIES:
