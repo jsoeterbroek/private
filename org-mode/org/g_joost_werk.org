@@ -7,6 +7,15 @@
 #+STARTUP:     overview
 #+FILETAGS:    werk
 
+* Arbeidsvoorwaarden
+  :PROPERTIES:
+  :ID:        6leluolltaisl8b33451v2k3n4@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-22 Fri 15:00-16:00>
+
 * Kantoor Zwolle
   :PROPERTIES:
   :ID:        7mu5rdsqsudgfonm63pbp6gcj7@google.com
@@ -15,54 +24,6 @@
   :ATTENDEES: 
   :END:
 <2022-07-19 Tue 08:30-17:30>
-
-* Vergadering gewijzigd: Refinment LINUX Team incl BOO Team
-  :PROPERTIES:
-  :ID:        d8a670bb-ccc4-40fa-839d-8a08fd3136d8
-  :LOCATION:  https 02c84325e7538c169d
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-07-21 Thu 13:00-14:00>
-
-
-Welink. L.C. (Luc) heeft de informatie voor de Rijksvideo Vergadering gewijzigd.
-
-Wanneer het tijd is, neemt u hier deel aan de Rijksvideo Vergadering.
-
-
-U bent een co-host voor deze Webex-vergadering.
-Vergaderingnummer (toegangscode): 152 680 5346
-Wachtwoord voor vergadering: J9HfGzc2n8q
-
-Gebeurt elke 3 week/weken op donderdag met ingang vandonderdag 03 februari 2022 van 13:00 tot 14:00, (UTC+01:00) Amsterdam, Berlijn, Bern, Rome, Stockholm, Wenen
-13:00  |  (UTC+01:00) Amsterdam, Berlijn, Bern, Rome, Stockholm, Wenen  |  1 uur
-
-Vergadering starten<https://rijksvideo.webex.com/rijksvideo/j.php?MTID=ma9fabdaa2e403602c84325e7538c169d>
-
-
-Meer manieren om deel te nemen:
-
-Deelnemen via de vergaderingskoppeling
-https://rijksvideo.webex.com/rijksvideo/j.php?MTID=ma9fabdaa2e403602c84325e7538c169d
-
-Tik om deel te nemen vanaf een mobiel apparaat (alleen deelnemers)
-+31-2072-19842,,1526805346##<tel:%2B31-2072-19842,,*01*1526805346%23%23*01*> Netherlands Toll
-+1-650-215-5226,,1526805346##<tel:%2B1-650-215-5226,,*01*1526805346%23%23*01*> United States Toll
-
-Deelnemen via telefoon
-+31-2072-19842 Netherlands Toll
-+1-650-215-5226 United States Toll
-Algemene inbelnummers<https://rijksvideo.webex.com/rijksvideo/globalcallin.php?MTID=m475cc9dca47012c4693b65e80b95f3c0>
-
-Deelnemen via een videosysteem of -toepassing
-Kies 1526805346@rijksvideo.webex.com<sip:1526805346@rijksvideo.webex.com>
-U kunt ook 62.109.219.4 kiezen en uw vergaderingnummer invoeren.
-
-Hebt u hulp nodig? Ga naar http://help.webex.com
-
-
 
 * Vaste Vrije dag
   :PROPERTIES:
@@ -652,13 +613,4 @@ ________________________________________________________________________________
   :ATTENDEES: 
   :END:
 <2022-07-26 Tue 11:30-12:00>
-
-* Terugkoppeling TMA
-  :PROPERTIES:
-  :ID:        040000008200E00074C5B7101A82E00800000000408291DC3970D801000000000000000
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-06-21 Tue 09:00-11:00>
 

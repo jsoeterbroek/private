@@ -7,6 +7,42 @@
 #+STARTUP:     overview
 #+FILETAGS:    prive
 
+* Oskar eten
+  :PROPERTIES:
+  :ID:        3n8sg10tq80v5705vvitdmp6vc@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-23 Sat 18:00-19:00>
+
+* Met Paulus brandmelders ophangen
+  :PROPERTIES:
+  :ID:        lmve213dqu57fkmbnf6v0hog7g@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-22 Fri 13:00-14:00>
+
+* Huis passen joline
+  :PROPERTIES:
+  :ID:        8vbbvreol0h4d64ricegh509ts@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-08-13 Sat>--<2022-08-27 Sat>
+
+* Joline eten
+  :PROPERTIES:
+  :ID:        cssoeo9l6aogc3qufs490se7mk@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-21 Thu 18:00-19:00>
+
 * Bellen de boeier
   :PROPERTIES:
   :ID:        5t6lramaporllv312s4an0a6co@google.com
@@ -81,15 +117,6 @@ Maandagochtend vanaf half 10 Valerie
   :END:
 <2022-07-02 Sat 10:00-22:00>
 
-* Huisarts
-  :PROPERTIES:
-  :ID:        urqr836s79vcgi60h9vlenun44@google.com
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-06-23 Thu 08:00-09:00>
-
 * Bloedruk
   :PROPERTIES:
   :ID:        48har6h8p4h8d2lcgtubecjg3k@google.com
@@ -143,15 +170,6 @@ Maandagochtend vanaf half 10 Valerie
   :ATTENDEES: 
   :END:
 <2022-06-28 Tue 19:30-20:30>
-
-* Terugkoppeling TMA
-  :PROPERTIES:
-  :ID:        41m9s9qkutsh3fr232b0299nvo@google.com
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-06-21 Tue 09:00-11:00>
 
 * Ellen po
   :PROPERTIES:
