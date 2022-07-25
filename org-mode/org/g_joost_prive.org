@@ -90,15 +90,6 @@ Maandagochtend vanaf half 10 Valerie
   :END:
 <2022-07-07 Thu 08:00-09:00>
 
-* Change
-  :PROPERTIES:
-  :ID:        9n3vofe1lbliqhlq783j2jtqoc@google.com
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-06-25 Sat 11:00-12:00>
-
 * Huispassen Zwolle
   :PROPERTIES:
   :ID:        k9n7l01aei2uofref05kdjceo8@google.com
