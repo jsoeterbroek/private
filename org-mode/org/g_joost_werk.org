@@ -7,6 +7,15 @@
 #+STARTUP:     overview
 #+FILETAGS:    werk
 
+* Kantoor
+  :PROPERTIES:
+  :ID:        72c2timrm9eigg3k7lam6m28fg@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-08-04 Thu 09:00-16:00>
+
 * Arbeidsvoorwaarden
   :PROPERTIES:
   :ID:        6leluolltaisl8b33451v2k3n4@google.com

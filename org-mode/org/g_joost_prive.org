@@ -7,6 +7,24 @@
 #+STARTUP:     overview
 #+FILETAGS:    prive
 
+* Ellen
+  :PROPERTIES:
+  :ID:        51j9djc19q683smk6r4ka9dlqs@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-09-20 Tue 16:00-17:00>
+
+* Anita
+  :PROPERTIES:
+  :ID:        74mvtbpi5h4h93pin821ma381c@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-07-31 Sun>
+
 * Oskar eten
   :PROPERTIES:
   :ID:        3n8sg10tq80v5705vvitdmp6vc@google.com
@@ -152,15 +170,6 @@ Maandagochtend vanaf half 10 Valerie
   :ATTENDEES: 
   :END:
 <2022-07-10 Sun 10:30-17:00>
-
-* BC vergadering
-  :PROPERTIES:
-  :ID:        8sjlpu0d1bngs3nf1n5ojf2dfk@google.com
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-06-28 Tue 19:30-20:30>
 
 * Ellen po
   :PROPERTIES:
