@@ -7,6 +7,24 @@
 #+STARTUP:     overview
 #+FILETAGS:    prive
 
+* Bdsm meeting
+  :PROPERTIES:
+  :ID:        d0itp74hkb1qn7qo9r5cer9trs@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-08-05 Fri 16:00-20:00>
+
+* Sarah
+  :PROPERTIES:
+  :ID:        5mgb41aifj9nvqr9q6gu6jblac@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-08-01 Mon 13:00-18:00>
+
 * Ellen
   :PROPERTIES:
   :ID:        51j9djc19q683smk6r4ka9dlqs@google.com
@@ -89,15 +107,6 @@ Maandagochtend vanaf half 10 Valerie
   :ATTENDEES: 
   :END:
 <2022-07-05 Tue 19:00-20:00>
-
-* Thomas verjaardag diner
-  :PROPERTIES:
-  :ID:        rpvid4akqe02nmlin9getpuj8s@google.com
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-07-01 Fri 17:00-20:00>
 
 * Huisarts aanstip
   :PROPERTIES:

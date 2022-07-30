@@ -7,6 +7,15 @@
 #+STARTUP:     overview
 #+FILETAGS:    facebook
 
+* Meerhanden
+  :PROPERTIES:
+  :ID:        a8h00su8fhvlq4tfub0thka4e8@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-08-09 Tue 19:00-20:00>
+
 * Vrijheid Blijheid "House" Party
   :PROPERTIES:
   :ID:        961A0709-1992-4C76-87D6-73D69660FD75

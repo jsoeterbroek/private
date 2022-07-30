@@ -164,17 +164,6 @@ To hide observances, go to Google Calendar Settings > Holidays in Netherlands
 
 Observance
 To hide observances, go to Google Calendar Settings > Holidays in Netherlands
-* Keti Koti
-  :PROPERTIES:
-  :ID:        20220701_ej1837al9rpksjds2uq8lq66io@google.com
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-07-01 Fri>
-
-Observance
-To hide observances, go to Google Calendar Settings > Holidays in Netherlands
 * Christmas Eve
   :PROPERTIES:
   :ID:        20231224_3mujhklfvupinp0ft9anmbtrm4@google.com
