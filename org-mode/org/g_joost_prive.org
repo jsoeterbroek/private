@@ -7,6 +7,15 @@
 #+STARTUP:     overview
 #+FILETAGS:    prive
 
+* Mirella
+  :PROPERTIES:
+  :ID:        4g48mqpqko0mdpgevvjbnv4uij@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-09-03 Sat>
+
 * Bdsm meeting
   :PROPERTIES:
   :ID:        d0itp74hkb1qn7qo9r5cer9trs@google.com
