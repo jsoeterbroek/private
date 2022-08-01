@@ -135,15 +135,6 @@ Maandagochtend vanaf half 10 Valerie
   :END:
 <2022-07-13 Wed>--<2022-07-25 Mon>
 
-* Lustrum feest gw Zwolle
-  :PROPERTIES:
-  :ID:        0ramjdjgg56gimj42vpohpikp8@google.com
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-07-02 Sat 10:00-22:00>
-
 * Bloedruk
   :PROPERTIES:
   :ID:        48har6h8p4h8d2lcgtubecjg3k@google.com
