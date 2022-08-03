@@ -1,5 +1,4 @@
 * Metrics
-
 * Weight
 | Datetime              | Weight | Comment                        |
 |-----------------------+--------+--------------------------------|
@@ -7,3 +6,4 @@
 | <di 31-05-2022>       | 84,4   | 'snachts gemeten om 04:00      |
 | <wo 01-06-2022>       | 83,9   | gegeten: 300 gr prot, spinazie |
 | <do 02-06-2022>       | 84,5   | nootjes                        |
+*

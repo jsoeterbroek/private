@@ -7,6 +7,15 @@
 #+STARTUP:     overview
 #+FILETAGS:    prive
 
+* Sarah Zwolle
+  :PROPERTIES:
+  :ID:        c62r04quevj1r3p9q3t6e6rmcg@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-08-18 Thu 21:00>--<2022-08-19 Fri 22:00>
+
 * Mirella
   :PROPERTIES:
   :ID:        4g48mqpqko0mdpgevvjbnv4uij@google.com
@@ -107,15 +116,6 @@ Maandagochtend vanaf half 10 Valerie
   :ATTENDEES: 
   :END:
 <2022-07-11 Mon 12:00-16:00>
-
-* Anita
-  :PROPERTIES:
-  :ID:        29liu53m1b8q0119frb534bfu0@google.com
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-07-05 Tue 19:00-20:00>
 
 * Huisarts aanstip
   :PROPERTIES:
