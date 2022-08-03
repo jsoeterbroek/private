@@ -3,6 +3,10 @@
 
 DATETIME=`date "+%Y%m%d-%H%M%S"`
 
+echo "INFO: ${DATETIME} sync from local org files to dropbox..."
+rsync -avz $HOME/org/metrics.org $HOME/Dropbox/
+rsync -avz $HOME/org/habits.org $HOME/Dropbox/
+
 echo "INFO: ${DATETIME} sync from dropbox to local org files..."
 rsync -avz $HOME/Dropbox/org/*.org $HOME/org/
 
