@@ -7,6 +7,24 @@
 #+STARTUP:     overview
 #+FILETAGS:    prive
 
+* Joline
+  :PROPERTIES:
+  :ID:        7fr9m4bjho14i2jgne3s1gbohs@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-08-12 Fri 16:00-17:00>
+
+* Burendag bespreken
+  :PROPERTIES:
+  :ID:        mmo2j181klt0p5hflvvrra59vo@google.com
+  :STATUS:    CONFIRMED
+  :ATTENDING: ATTENDING
+  :ATTENDEES: 
+  :END:
+<2022-09-01 Thu 19:00-20:00>
+
 * Sarah Zwolle
   :PROPERTIES:
   :ID:        c62r04quevj1r3p9q3t6e6rmcg@google.com
@@ -24,15 +42,6 @@
   :ATTENDEES: 
   :END:
 <2022-09-03 Sat>
-
-* Bdsm meeting
-  :PROPERTIES:
-  :ID:        d0itp74hkb1qn7qo9r5cer9trs@google.com
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-08-05 Fri 16:00-20:00>
 
 * Sarah
   :PROPERTIES:
@@ -108,24 +117,6 @@
 
 Maandagochtend vanaf half 10 Valerie
 038 4536973
-* Maandag schuur (Carla)
-  :PROPERTIES:
-  :ID:        4fp0dudtfu1dk3p5i15aeasa70@google.com
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-07-11 Mon 12:00-16:00>
-
-* Huisarts aanstip
-  :PROPERTIES:
-  :ID:        dkme9k72ci55qiv1fl93da71os@google.com
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-07-07 Thu 08:00-09:00>
-
 * Huispassen Zwolle
   :PROPERTIES:
   :ID:        k9n7l01aei2uofref05kdjceo8@google.com
@@ -170,15 +161,6 @@ Maandagochtend vanaf half 10 Valerie
   :ATTENDEES: 
   :END:
 <2022-09-11 Sun>
-
-* Tuindag gw Zwolle
-  :PROPERTIES:
-  :ID:        43p88us2qpfor3sgu8pgmm9iot@google.com
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-07-10 Sun 10:30-17:00>
 
 * Ellen po
   :PROPERTIES:
