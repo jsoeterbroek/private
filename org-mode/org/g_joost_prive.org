@@ -14,7 +14,7 @@
   :ATTENDING: ATTENDING
   :ATTENDEES: 
   :END:
-<2022-08-12 Fri 16:00-17:00>
+<2022-08-12 Fri 14:00-15:00>
 
 * Burendag bespreken
   :PROPERTIES:

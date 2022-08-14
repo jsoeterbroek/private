@@ -302,47 +302,6 @@ Hebt u hulp nodig? Ga naar http://help.webex.com
 
 
 
-* Tijdschrijven
-  :PROPERTIES:
-  :ID:        040000008200E00074C5B7101A82E0080000000040A58E1A9642D301000000000000000
-  :STATUS:    CONFIRMED
-  :ATTENDING: ATTENDING
-  :ATTENDEES: 
-  :END:
-<2022-07-15 Fri 08:00-08:30>
-
-Beste mensen,
-
-Deze afspraak zet ik in jullie agenda’s om centraal iedereen te herinneren aan het insturen van de urenstaat voor deze week.
-Dat mag op een voor jou geschikt moment, als het maar op deze vrijdag gebeurt.
-Als het nog niet kan omdat je bijvoorbeeld in het weekend gaat werken, verstuur dan de urenstaat uiterlijk maandag a.s. vóór 9 uur.
-
-Op maandagochtend kunnen de goedkeurders (o.a. Product Owners, Delivery Managers en Teamleider) dan nog hun akkoord geven. Ook kan dan de facturatie-run op tijd en compleet worden uitgevoerd.
-
-Los van deze afspraak, moeten we ook de urenstaten op de laatste dag van de maand versturen, en dan wel gelijk voor die hele week.
-
-Hiermee bereiken we dat facturen volledig zijn, projectrapportages financieel juist zijn, en onze financiële voorspelbaarheid groter is in projecten en het maandelijks beheerbudget.
-Bedankt voor het tijdig schrijven van je uren!
-
-Met vriendelijke groet,
-
-Erik van der Hout
-Directie Infrastructuur
-Divisie Hoog Beveiligd
-Teamleider Projecten
-........................................................................
-DICTU
-Bezuidenhoutseweg 73| 2594 AC | Den Haag
-Postbus 20401 | 2500 EK | Den Haag
-........................................................................
-T 088 0413659
-M 0615100100
-e.j.g.vanderhout@dictu.nl <mailto:e.j.g.vanderhout@dictu.nl>
-
-
-
-
-
 * Linux voorzieingen autom. patching
   :PROPERTIES:
   :ID:        040000008200E00074C5B7101A82E00800000000A01A67455C85D801000000000000000
